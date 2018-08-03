@@ -1,12 +1,12 @@
 ---
-title: "AB Testing Playbook: Proportion"
+title: "How to set up and evaluate an AB test?
+"
 date: 2018-08-03
 tags: [AB Testing]
 excerpt: "Statistics, Python, Tutorial"
 mathjax: true
 ---
 
-# How to set up and evaluate an AB test?
 
 So you need to run an A/B test and you need to figure out how many users you need in order to have valid results. What does "valid" results even mean? How do you decide what is the proper test to use to evaluate your results? 
 
