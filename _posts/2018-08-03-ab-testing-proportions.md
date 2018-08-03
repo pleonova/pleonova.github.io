@@ -1,8 +1,8 @@
 ---
 title: "AB Testing Playbook: Proportion"
 date: 2018-08-03
-tags: [ab testing, data science, statistics, python]
-excerpt: "Data Science, AB Testing, Python"
+tags: [AB Testing]
+excerpt: "Statistics, Python, Tutorial"
 mathjax: true
 ---
 
