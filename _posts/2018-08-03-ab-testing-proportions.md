@@ -2,8 +2,8 @@
 title: "How to set up and evaluate an AB test?
 "
 date: 2018-08-03
-tags: [AB Testing] #[Statistics, Python, Tutorial]
-excerpt: "Statistics, Python, Tutorial"
+tags: [AB Testing, Statistics, Python, Tutorial]
+excerpt: "A how-to guide on running AB tests in python"
 mathjax: true
 ---
 
