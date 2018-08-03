@@ -3,6 +3,7 @@ title: "AB Testing Playbook: Proportion"
 date: 2018-08-03
 tags: [ab testing, data science, statistics, python]
 excerpt: "Data Science, AB Testing, Python"
+mathjax: true
 ---
 
 # How to set up and evaluate an AB test?
