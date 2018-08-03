@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "My Data Science Portfolio"
 title_separator          : "-"
 name                     : "Paula Leonova"
-description              : "Data Scientist"
+description              : #"Data Scientist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Paula Leonova"
   avatar           : "/images/bio-photo.jpg"
-  bio              : #"Data Science Portfolio"
+  bio              : "Data Sciencist"
   location         : "Mountain View, CA"
   email            :
   uri              :
