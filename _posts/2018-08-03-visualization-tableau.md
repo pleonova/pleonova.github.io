@@ -2,7 +2,7 @@
 title: "Introduction to Data Analysis and Visual Design with Tableau + Video"
 date: 2018-08-03
 tags: [Visualizations, Tableau, Talks, Tutorials]
-excerpt: "A how-to guide on running AB tests in python"
+excerpt: "A talk I gave about visualizaions in Tableau, including resources."
 mathjax: true
 ---
 
