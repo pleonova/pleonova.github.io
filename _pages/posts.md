@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Recent Posts"
+title: "Posts"
 permalink: /posts/
 author_profile: true
 header:
