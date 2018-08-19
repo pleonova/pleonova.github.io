@@ -10,7 +10,7 @@ header:
   caption:
 excerpt: 'A collection of my data projects.'
 feature_row:
-  - image_path: /images/display-jd-classifier.jpg
+  - image_path: /images/display-jd-classifier.JPG
     alt: "jd-classifier"
     title: "Job Description Classification Model"
     excerpt: "A model that predicts whether a job description is for a data scientist or data analyst."
@@ -37,7 +37,7 @@ feature_row:
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Learn More
+    btn_label: "Learn More"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
