@@ -21,8 +21,8 @@ header:
 -->
 
 
-{{ content }}
 
+<!--
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
@@ -33,6 +33,7 @@ header:
     </li>
   {% endfor %}
 </ul>
+-->
 
 {% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
