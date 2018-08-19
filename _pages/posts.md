@@ -1,5 +1,5 @@
 ---
-#layout: archive
+layout: posts
 title: "Posts"
 permalink: /posts/
 author_profile: true
@@ -21,8 +21,8 @@ header:
 -->
 
 
-
 <!--
+
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
@@ -33,7 +33,6 @@ header:
     </li>
   {% endfor %}
 </ul>
--->
 
 {% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
@@ -47,3 +46,4 @@ header:
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
+-->
