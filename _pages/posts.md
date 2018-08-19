@@ -1,4 +1,13 @@
 ---
+title: "Posts by Year"
+permalink: /year-archive/
+layout: posts
+author_profile: true
+---
+
+
+<!--
+---
 layout: posts
 title: "Posts"
 permalink: /posts/
@@ -6,6 +15,7 @@ author_profile: true
 header:
   #image: "/images/boats.jpg"
 ---
+-->
 
 <!--
 {% include base_path %}
