@@ -10,34 +10,37 @@ header:
   caption:
 excerpt: 'A collection of my data projects.'
 feature_row:
+  - image_path: /images/display-jd-classifier.jpg
+    alt: "jd-classifier"
+    title: "Job Description Classification Model"
+    excerpt: "A model that predicts whether a job description is for a data scientist or data analyst."
+    url: "https://github.com/pleonova/jd-classifier"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+    
+  - image_path: /images/display-ab-testing.JPG
+    alt: "AB Testing"
+    title: "AB Testing Templates"
+    excerpt: "A Jupyter notebook with re-usable code for running your own AB Tests"
+    url: "https://github.com/pleonova/ab-testing"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+    
+  - image_path: /images/display-tableau.JPG
+    alt: "Visualizing Data in Tableau"
+    title: "Visualizing Data in Tableau"
+    excerpt: "I recorded everything I did in May 2017 and gave a presentation on how I visualized my data using Tableau."
+    url: "/visualization-tableau/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+    
   - image_path: /images/boats-on-a-beach.jpg
     alt: "customizable"
     title: "Super Customizable"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /images/tableau-display.
-    alt: "Visualizing Data in Tableau"
-    title: "Visualizing Data in Tableau"
-    excerpt: "I recorded everything I did in May 2017 and gave a presentation on how I visualized my data using Tableau"
-    url: "/visualization-tableau/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
+    btn_label: "Learn More
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
