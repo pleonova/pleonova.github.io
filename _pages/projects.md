@@ -24,11 +24,18 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /images/tableau-display.JPG
+  - image_path: /images/tableau-display.
     alt: "Visualizing Data in Tableau"
     title: "Visualizing Data in Tableau"
     excerpt: "I recorded everything I did in May 2017 and gave a presentation on how I visualized my data using Tableau"
     url: "/visualization-tableau/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Responsive Layouts"
+    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 github:
