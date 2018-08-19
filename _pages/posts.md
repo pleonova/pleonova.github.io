@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Posts by Year"
+title: "Posts"
 permalink: /posts/
 author_profile: true
 header:
