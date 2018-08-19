@@ -24,18 +24,11 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "test"
-    title: "test title"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
-    url: "/docs/license/"
+  - image_path: /images/tableau-display.jpeg
+    alt: "Visualizing Data in Tableau"
+    title: "Visualizing Data in Tableau"
+    excerpt: "I recorded everything I did in May 2017 and gave a presentation on how I visualized my data using Tableau"
+    url: "/visualization-tableau/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 github:
