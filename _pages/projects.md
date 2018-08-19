@@ -8,7 +8,7 @@ header:
   cta_label: #"<i class='fas fa-download'></i> Install Now"
   cta_url: #"/docs/quick-start-guide/"
   caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.'
+excerpt: ''
 feature_row:
   - image_path: /images/boats-on-a-beach.jpg
     alt: "customizable"
