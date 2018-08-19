@@ -7,7 +7,6 @@ header:
   #image: "/images/boats.jpg"
 ---
 
-<!--
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
@@ -18,4 +17,3 @@ header:
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
--->
