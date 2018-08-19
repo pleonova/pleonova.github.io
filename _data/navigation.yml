@@ -10,6 +10,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Posts"
     url: /posts/
+  - title: "PostsHeader"
+    url: /postsheader/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
