@@ -17,15 +17,13 @@ feature_row:
     url: "https://github.com/pleonova/jd-classifier"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-    
   - image_path: /images/display-ab-testing.JPG
     alt: "AB Testing"
     title: "AB Testing Templates"
-    excerpt: "A Jupyter notebook with re-usable code for running your own AB Tests"
+    excerpt: "A Jupyter notebook with re-usable code for running your own AB Tests."
     url: "https://github.com/pleonova/ab-testing"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-    
   - image_path: /images/display-tableau.JPG
     alt: "Visualizing Data in Tableau"
     title: "Visualizing Data in Tableau"
@@ -33,7 +31,6 @@ feature_row:
     url: "/visualization-tableau/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-    
   - image_path: /images/boats-on-a-beach.jpg
     alt: "customizable"
     title: "Super Customizable"
