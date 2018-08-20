@@ -17,7 +17,7 @@ feature_row:
     url: "https://github.com/pleonova/jd-classifier"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /images/display-ab-testing-border.JPEG
+  - image_path: /images/display-ab-testing.JPG
     alt: "AB Testing"
     title: "AB Testing Python Templates"
     excerpt: "A Jupyter notebook with re-usable code for running your own AB Tests.<br /><br />"
