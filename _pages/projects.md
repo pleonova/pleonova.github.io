@@ -20,7 +20,7 @@ feature_row:
   - image_path: /images/display-ab-testing.JPG
     alt: "AB Testing"
     title: "AB Testing Python Templates"
-    excerpt: "A Jupyter notebook with re-usable code for running your own AB Tests.                    "
+    excerpt: "A Jupyter notebook with re-usable code for running your own AB Tests.<br /> <small></small><br /><br />"
     url: "https://github.com/pleonova/ab-testing"
     btn_class: "btn--primary"
     btn_label: "Learn More"
