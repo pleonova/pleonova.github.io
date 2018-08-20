@@ -24,7 +24,7 @@ feature_row:
     url: "https://github.com/pleonova/ab-testing"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /images/display-tableau.JPG
+  - image_path: /images/display-tableau-border.jpg
     alt: "Visualizing Data in Tableau"
     title: "Visualizing Data in Tableau"
     excerpt: "I recorded everything I did in May 2017 and gave a presentation on how I visualized my data using Tableau."
