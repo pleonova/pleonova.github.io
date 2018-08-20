@@ -10,14 +10,14 @@ header:
   caption:
 excerpt: 'A collection of my data projects.'
 feature_row:
-  - image_path: /images/display-jd-classifier-border.JPG
+  - image_path: /images/display-jd-classifier-border.JPEG
     alt: "jd-classifier"
     title: "Job Description Classification Model"
     excerpt: "A model that predicts whether a job description is for a data scientist or data analyst."
     url: "https://github.com/pleonova/jd-classifier"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /images/display-ab-testing-border.JPG
+  - image_path: /images/display-ab-testing-border.JPEG
     alt: "AB Testing"
     title: "AB Testing Python Templates"
     excerpt: "A Jupyter notebook with re-usable code for running your own AB Tests.<br /><br />"
