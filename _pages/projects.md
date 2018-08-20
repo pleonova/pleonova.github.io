@@ -10,7 +10,7 @@ header:
   caption:
 excerpt: 'A collection of my data projects.'
 feature_row:
-  - image_path: /images/display-jd-classifier-border.JPG
+  - image_path: /images/display-jd-classifier-border.jpg
     alt: "jd-classifier"
     title: "Job Description Classification Model"
     excerpt: "A model that predicts whether a job description is for a data scientist or data analyst."
