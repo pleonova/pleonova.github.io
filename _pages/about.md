@@ -5,7 +5,7 @@ header:
   #image: "/images/rock-colors-small.jpg"
 ---
 
-I have over 5 years of experience in the analytics space. As you can see below, I have worked in multiple industries and really enjoy the challenges that come with solving data problems. What my timeline below does not show however is all the additional online courses and books I've read to stay update to date with the best practices and latest technologies. I really enjoy learning and sharing that knowledge by giving talks and creating training materials for my colleagues. 
+I have 5+ years of experience in the analytics space. As you can see below, I have worked in multiple industries and really enjoy the challenges that come with solving data problems. What my timeline below does not show however is all the additional online courses and books I've read to stay update to date with the best practices and latest technologies. I really enjoy learning and sharing that knowledge by giving talks and creating training materials for my colleagues. 
 
  ## My Background
  
