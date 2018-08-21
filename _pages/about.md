@@ -9,7 +9,7 @@ I have 5+ years of experience in the analytics space. As you can see below, I ha
 
 ## My Background
  
-<img src="{{ site.url }}{{ site.baseurl }}/images/my-background3.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/my-background3.JPG" alt="">
 
 
 I started my career in Stata and R and have transitioned to Python in the last couple of years.  I frequently use both the python visualization libraries (`matplotlib` and `seaborn`) as well as statistical/machine learning packages (`sklearn` and `statsmodel`). In addition to exploring data and creating models in Python and R, I am also familiar with various business intelligence tools such as Looker, Tableau and Chartio and have created dozens of dashboards. 
