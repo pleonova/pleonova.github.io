@@ -7,7 +7,7 @@ header:
 
 I have 5+ years of experience in the analytics space. As you can see below, I have worked in multiple industries and really enjoy the challenges that come with solving data problems. What my timeline below does not show however is all the additional online courses and books I've read to stay update to date with the best practices and latest technologies. I really enjoy learning and sharing that knowledge by giving talks and creating training materials for my colleagues. 
 
- ## My Background
+## My Background
  
 <img src="{{ site.url }}{{ site.baseurl }}/images/my-background2.jpg" alt="">
 
@@ -18,13 +18,10 @@ I started my career in Stata and R and have transitioned to Python in the last c
 
 ## Completed Online Courses
 
-Udacity: **Intro to Inferential Statistics** (2018)
-
-Data School: **Machine Learning with Text in Python** (2018)
-
-Udacity: **Intro to Descriptive Statistics** (2017)
-
-Udacity: **A/B Testing** (2017)
+- Udacity: **Intro to Inferential Statistics** (2018)
+- Data School: **Machine Learning with Text in Python** (2018)
+- Udacity: **Intro to Descriptive Statistics** (2017)
+- Udacity: **A/B Testing** (2017)
 
 Udacity: **How to Use Git and Github** (2016)
 
