@@ -24,11 +24,13 @@ I am curious if other companies will follow this example and broaden the definit
 
 **Frequent terms establish the baseline knowledge expected in both roles, while frequent but unique terms per role highlight key differences.**
  
-It is no surprise that *sql* and *analysis* show up frequently in both postings. What is interesting, however, is that *statistics* shows up in both. Context is very important; the words that show up surrounding this term provide additional information about the level of expertise required. Upon further inspection, it looks like this term frequently shows up alongside a list of other quantitative degrees, for both roles, so it is less surprising than it was at initial glance. Another term that appears frequently for both is *python*. The frequency of which this word shows up for Data Scientist roles is, however, significantly higher than the times it appears in data analyst JDs. Almost 90% of the data science roles contain the key term, while only 60% of the data analyst JDs have it, indicating that python is an expected skill for a data scientist.
+It is no surprise that *sql* and *analysis* show up frequently in both postings (see chart below). What is interesting, however, is that *statistics* shows up in both. Context is very important; the words that show up surrounding this term provide additional information about the level of expertise required. Upon further inspection, it looks like this term frequently shows up alongside a list of other quantitative degrees, for both roles, so it is less surprising than it was at initial glance. Another term that appears frequently for both is *python*. The frequency of which this word shows up for Data Scientist roles is, however, significantly higher than the times it appears in data analyst JDs. Almost 90% of the data science roles contain the key term, while only 60% of the data analyst JDs have it, indicating that python is an expected skill for a data scientist.
 
 <img src="https://github.com/pleonova/jd-classifier/blob/master/Images/TorandoChart_TermSensitivity_BothRoles.png" width="400" align="center">
 
-Surveying the top terms for just a Data Scientist, results in a collection of words that are more technical in nature. Some of the top terms are: *machine learning*, *platform*, *algorithms*, *models*, *java*, *programming*, *development*. Because data science is more of a mix of a statistician and a computer scientist, these terms are not surprising at all. 
+Surveying the top terms for just a Data Scientist, results in a collection of words that are more technical in nature. Some of the top terms are: *machine learning*, *platform*, *algorithms*, *models*, *java*, *programming*, *development* (see left chart below). Because data science is more of a mix of a statistician and a computer scientist, these terms are not surprising at all. 
+
+
 
 <img src="https://github.com/pleonova/jd-classifier/blob/master/Images/TorandoChart_TermSensitivity_DataScientist.png" width="400"> <img src="https://github.com/pleonova/jd-classifier/blob/master/Images/TorandoChart_TermSensitivity_Analyst.png" width="400" align="right">
 
@@ -37,30 +39,3 @@ I have merely scratched the surface with this project and am excited to dig deep
 
 To learn more about this project and stay updated about the progress, please feel free to checkout [my github repo](https://github.com/pleonova/jd-classifier).
 
-
-
-
-there are nearly 
-
-There seems to be a bit more uniformity for data scientists, based on the percentage of common, but unique terms that show up. Looking at terms that show up in at least 30% of JDs, there is more variety of terms for data analysts (182 terms versus 158).
-
-
-
-
-, however this terms does show up slightly more in data science positions. It is also important to understand the depth of statistics knowledge required might be different is worth examining within the context of the JD. Upon further investigation
-
-
-Obviously, the top key terms will 
-
-but you can't overlook the skills that are listed in both. 
-
-
-to narrow down which areas to focus on depending on which job one wants to land while the key words that overlap could help someone prepare for a career transition. * 
-
-focus in on where to spend 
-
-* As interesting at the top key words are, the overlap between they two roles is also insightful”
-* As … are perhaps more actionable if someone is looking to transition. 
-
-
-To learn more about this project, please feel free to checkout [my github repo](https://github.com/pleonova/jd-classifier).
