@@ -7,9 +7,9 @@ header:
 
 After graduating from UC Berkeley with a B.A. in Economics, I have continued my education by taking a multitude of online courses which I have listed below. I am big advocate of online learning and am excited as the space continues to grow and improve. 
 
-## Completed Online Courses (Year Completed)
+## Completed Online Courses
+- Data School: **Machine Learning with Text in Python** (year completed: 2018)
 - Udacity: **Intro to Inferential Statistics** (2018)
-- Data School: **Machine Learning with Text in Python** (2018)
 - Udacity: **Intro to Descriptive Statistics** (2017)
 - Udacity: **A/B Testing** (2017)
 - Udacity: **How to Use Git and Github** (2016)
