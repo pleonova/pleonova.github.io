@@ -6,16 +6,16 @@ excerpt: "A model that predicts the role from just the job description."
 mathjax: true
 ---
 
-### Goal
+## Goal
 What can we learn from looking at job descriptions for these two roles? What keywords are found in both and which are more unique and help distinguish the roles?
 
-### Background
+## Background
 I extracted the words and phrases from job descriptions of the big tech companies in Silicon Valley and built a supervised model to see if it could predict, from just the description, whether the role was for a data scientist or data analyst.  
 
-### Summary
+## Summary
 I ended up training a Multinomial Naives Bayes model to predict the job titles with an **accuracy of 76%**. Unsurprisingly, the top key words/phrases for data scientist were: “machine learning”, “models”, "algorithms" while that for data analysts were: “reports”, “dashboards”, and “excel”. 
 
-### Takeaways
+## Takeaways
 **Examining the results that my model classified incorrectly actually gives insight into employers and their expectations.**
 
 There are several reasons why a company might choose to display a title where the description does not match the role. Lyft, for example, on their blog, wrote the following article [What's in a name?](https://eng.lyft.com/whats-in-a-name-ce42f419d16c), where they explained that they strategically chose to change the title of a data analyst to a data scientist to retain talent (in my model, this role comes up as a false positive). However, instead of encompassing both roles in one title, they updated that of data scientist to research scientist. Others have done it to attract talent and get a pool of applicants that are simply drawn to the [Sexist Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), as initially proclaimed by Harvard Business Review. While others have done it to attract more skilled workers.
