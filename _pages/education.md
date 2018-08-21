@@ -5,7 +5,7 @@ header:
   #image: "/images/rock-colors-small.jpg"
 ---
 
-After graduating from UC Berkeley with a B.A. in Economics, I have continued my education by taking a multitude of online courses which I have listed below. I am big advocate of online learning and am excited as the space continues to grow and improve. 
+After graduating from UC Berkeley with a B.A. in Economics, I have continued my education by taking a multitude of online courses which I have listed below. I am always looking to learn new methods and algorithms that will help me come up with better solutions to my current problems.
 
 ## Completed Online Courses
 - Data School: **Machine Learning with Text in Python** (year completed: 2018)
@@ -24,8 +24,9 @@ After graduating from UC Berkeley with a B.A. in Economics, I have continued my 
 
 ## Books
 - O'Reily's: **Interactive Data Visualization for the Web: An Introduction for Designing with D3** (2017-2018)  [40%]
-- O'Reily's: **Hands-On Machine Learning with Scikit-Learn and TensorFlow** (2017-2018) [10%]
-- Springer: **Applied Predictive Modeling** (2018) [10%]
+- O'Reily's: **Hands-On Machine Learning with Scikit-Learn and TensorFlow** (2017-2018) [20%]
+- Springer: **Applied Predictive Modeling** (2018) [20%]
+- O'Reily's: **Natural Language Processing with Python** (2017) [33%]
 
 <br /><br />
 
