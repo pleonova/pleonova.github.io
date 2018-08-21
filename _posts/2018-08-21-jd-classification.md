@@ -6,7 +6,7 @@ excerpt: "A model that predicts the role from just the job description."
 mathjax: true
 ---
 
-## Goal
+## Objective
 What can we learn from looking at job descriptions for these two roles? What keywords are found in both and which are more unique and help distinguish the roles?
 
 ## Background
@@ -16,7 +16,7 @@ I extracted the words and phrases from job descriptions of the big tech companie
 I ended up training a Multinomial Naives Bayes model to predict the job titles with an **accuracy of 76%**. Unsurprisingly, the top key words/phrases for data scientist were: “machine learning”, “models”, "algorithms" while that for data analysts were: “reports”, “dashboards”, and “excel”. 
 
 ## Takeaways
-**Examining the results that my model classified incorrectly actually gives insight into employers and their expectations.**
+**Examining the results that my model classified in correctly actually gives insight into employers and their expectations.**
 
 There are several reasons why a company might choose to display a title where the description does not match the role. Lyft, for example, on their blog, wrote the following article [What's in a name?](https://eng.lyft.com/whats-in-a-name-ce42f419d16c), where they explained that they strategically chose to change the title of a data analyst to a data scientist to retain talent (in my model, this role comes up as a false positive). However, instead of encompassing both roles in one title, they updated that of data scientist to research scientist. Others have done it to attract talent and get a pool of applicants that are simply drawn to the [Sexist Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), as initially proclaimed by Harvard Business Review. While others have done it to attract more skilled workers.
 
@@ -24,9 +24,13 @@ I am curious if other companies will follow this example and broaden the definit
 
 **Frequent terms establish the baseline knowledge expected in both roles, while frequent but unique terms per role highlight key differences.**
  
-It is no surprise that *sql* and *analysis* show up frequently in both postings. What is interesting, however, is that *statistics* shows up in both. Context is very important; the words that show up surrounding this term provide additional information about the level of expertise required. Upon further inspection, it looks like this term frequently shows up alongside a list of other quantitative degrees, for both roles, so it is less surprising than it was at initial glance. Another term that appears in top terms for both is *python*. The frequency of which this word shows up for Data Scientist roles is, however, significantly higher than the time it appears in data analyst JDs. Almost 90% of the data science roles contain the key term, while only 60% of the data analyst JDs contain it, indicating that python is an expected skill for a data scientist.
+It is no surprise that *sql* and *analysis* show up frequently in both postings. What is interesting, however, is that *statistics* shows up in both. Context is very important; the words that show up surrounding this term provide additional information about the level of expertise required. Upon further inspection, it looks like this term frequently shows up alongside a list of other quantitative degrees, for both roles, so it is less surprising than it was at initial glance. Another term that appears frequently for both is *python*. The frequency of which this word shows up for Data Scientist roles is, however, significantly higher than the times it appears in data analyst JDs. Almost 90% of the data science roles contain the key term, while only 60% of the data analyst JDs have it, indicating that python is an expected skill for a data scientist.
 
-Surveying the top terms for just Data Scientist, results in a collection of words that are more technical in nature. 
+<img src="https://github.com/pleonova/jd-classifier/blob/master/Images/TorandoChart_TermSensitivity_BothRoles.png" width="400" align="center">
+
+Surveying the top terms for just a Data Scientist, results in a collection of words that are more technical in nature. Some of the top terms are: *machine learning*, *platform*, *algorithms*, *models*, *java*, *programming*, *development*. Because data science is more of a mix of a statistician and a computer scientist, these terms are not surprising at all. 
+
+<img src="https://github.com/pleonova/jd-classifier/blob/master/Images/TorandoChart_TermSensitivity_DataScientist.png" width="400"> <img src="https://github.com/pleonova/jd-classifier/blob/master/Images/TorandoChart_TermSensitivity_Analyst.png" width="400" align="right">
 
 ## Next Steps
 I have merely scratched the surface with this project and am excited to dig deeper to see how I can make the model more robust and insightful. For one, I would like to isolate terms based on the location or heading they are under in order to understand their level of importance for a given role. Furthermore, I'd like to collect a larger sample size and split out my data into junior and senior roles. 
