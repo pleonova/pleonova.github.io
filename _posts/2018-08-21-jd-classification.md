@@ -24,12 +24,14 @@ I am curious if other companies will follow this example and broaden the definit
 
 **Frequent terms establish the baseline knowledge expected in both roles, while frequent but unique terms per role highlight key differences.**
  
-It is no surprise that `sql` and `analysis` show up frequently in both postings. What is interesting, however, is that `statistics` shows up in both. Context is very important, it is important what words show up surrounding this term. Upon further exploration, this term frequently shows up alongside a list of other quantitative degrees for both roles so it less surprising than at first glance. Another term that appears in top 20 terms is `python`. However, 90% of the data science roles contain the key term, while only 60% of the data analyst JDs contain this keyword, indicating that python is an expected skill for a data scientist.
+It is no surprise that *sql* and *analysis* show up frequently in both postings. What is interesting, however, is that *statistics* shows up in both. Context is very important; the words that show up surrounding this term provide additional information about the level of expertise required. Upon further inspection, it looks like this term frequently shows up alongside a list of other quantitative degrees, for both roles, so it is less surprising than it was at initial glance. Another term that appears in top terms for both is *python*. The frequency of which this word shows up for Data Scientist roles is, however, significantly higher than the time it appears in data analyst JDs. Almost 90% of the data science roles contain the key term, while only 60% of the data analyst JDs contain it, indicating that python is an expected skill for a data scientist.
 
 Surveying the top terms for just Data Scientist, results in a collection of words that are more technical in nature. 
 
+## Next Steps
+I have merely scratched the surface with this project and am excited to dig deeper to see how I can make the model more robust and insightful. For one, I would like to isolate terms based on the location or heading they are under in order to understand their level of importance for a given role. Furthermore, I'd like to collect a larger sample size and split out my data into junior and senior roles. 
 
-
+To learn more about this project and stay updated about the progress, please feel free to checkout [my github repo](https://github.com/pleonova/jd-classifier).
 
 
 
