@@ -12,20 +12,28 @@ Back in 2017, I was invited to give a talk at Product School at their San Franci
 The original talk was taped and has been **watched 1.5K times** on Facebook, you can find the link [here](https://www.facebook.com/productschool/videos/1899646390253735/) or watch it below.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/JZ1rGCAcQC0?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
-
+<br />
 Furthermore, the dashboards that I designed and built for the talks have been **viewed nearly 2K times**. 
 
 ## Process
-(1) Data Collection
-(2) Dashboard Creation
-(3) Slide Deck with Instructional GIFs
-(4) Presentations
+1. Data Collection
+2. Dashboard Creation
+3. Slide Deck with Instructional GIFs
+4. Presentations
 
 ## 1. Data Collection
-I initially set out to use previous work projects as examples but instead opted to collect my own data to make this project more personal. Since I embedded detailed GIFs into my deck, I did not want to use any proprietary data. I chose to track the places that I visited and length of visit for an entire month. 
+I initially set out to use previous work projects as examples but instead opted to collect my own data to make this project more personal. Since I embedded detailed GIFs into my deck, I did not want to use any proprietary data. I chose to track the places that I visited and length each visit for an entire month. 
+
+I tracked how much time I spent: working, eating out, exercising, doing chores, cooking, etc. One of my personal goals was to perhaps learn something new myself and potentially change some of my hehavior based on what patterns I saw. I actually did end up changing 2 things after visualizing my data.
 
 ## 2. Dashboard Creation 
-I created two dashboards for this presentation. The first one was a *general overview* of my month, which is typical of the types of high level dashboards companies have. The second one was a *deep dive* into my activities. One of the goals that I had for this second dashboard was to learn something new about my behavior and as a result, modify some of tendencies.
+I created two interactive dashboards to explain the creation process as well as show a breadth of visualizations available in Tableau. The first one was a [general overview* of my month](https://public.tableau.com/profile/paula#!/vizhome/GuesstheUnderlyingDataexposed/SampleReport), which is typical of the types of high level dashboards companies have (I go into this in my talk). The second one was a [deep dive into my activities](https://public.tableau.com/profile/paula#!/vizhome/WhatdidIdoinMay2017/Activity1vsActivity2).
+
+One of my personal goals for this second dashbaord was to learn something new about my behavior and as a result, modify some of my tendencies.
+
+
+
+
 
 
 
