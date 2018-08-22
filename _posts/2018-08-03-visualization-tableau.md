@@ -10,8 +10,7 @@ Back in October of last year, I was invited to give a talk at Product School at 
 
 The original talk was taped and has been watched 1.5K times on Facebook, you can find the link [here](https://www.facebook.com/productschool/videos/1899646390253735/). A better quality link on youtube also exists [here](https://www.youtube.com/watch?v=JZ1rGCAcQC0&t).
 
-<iframe src="https://www.youtube.com/watch?v=JZ1rGCAcQC0&t?:showVizHome=no&:embed=true" width="50%" </iframe>
-
+<iframe width="640" height="360" src="https://www.youtube.com/embed/JZ1rGCAcQC0?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe src= "https://public.tableau.com/views/WhatdidIdoinMay2017/Activity1vsActivity2?:showVizHome=no&:embed=true" width="30%" height="700"></iframe>
 
