@@ -6,14 +6,14 @@ excerpt: "A model that predicts the role from just the job description."
 mathjax: true
 ---
 
-## Questions
+## Goal
 What can we learn from looking at job descriptions for these two roles? What keywords are found in both and which are more unique and help distinguish the roles?
 
 ## Background
 I extracted the words and phrases from job descriptions of the big tech companies in Silicon Valley and built a supervised model to see if it could predict, from just the description, whether the role was for a data scientist or data analyst.  
 
 ## Summary
-I ended up training a Multinomial Naives Bayes model to predict the job titles with an **accuracy of 76%**. Unsurprisingly, the top key words/phrases for data scientist were: “machine learning”, “models”, "algorithms" while that for data analysts were: “reports”, “dashboards”, and “excel”. 
+I ended up training a Multinomial Naives Bayes model to predict the job titles with an **accuracy of 76%**. Unsurprisingly, the top key words/phrases for data scientist were: *machine learning*, *models*, *algorithms* while that for data analysts were: *reports*, *dashboards*, and *excel*. 
 
 ## Takeaways
 **Examining the results that my model classified correctly actually gives insight into employers and their expectations.**
