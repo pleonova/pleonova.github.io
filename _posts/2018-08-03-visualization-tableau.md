@@ -12,7 +12,10 @@ The original talk was taped and has been watched 1.5K times on Facebook, you can
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/JZ1rGCAcQC0?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe src= "https://public.tableau.com/views/WhatdidIdoinMay2017/Activity1vsActivity2?:showVizHome=no&:embed=true" width="360" height="500"></iframe>
+<iframe src= "https://public.tableau.com/views/WhatdidIdoinMay2017/Activity1vsActivity2?:showVizHome=no&:embed=true" frameborder="0" 
+height="400" 
+width="575" 
+scrolling="no"></iframe>
 
 In this 20 minute talk, I presented some general tips for creating data reports as well as how to build indepth and dynamic dashboards in Tableau. The second part of the talk goes into detail about how to build various types of visualizations, which includes 5-25 second instructional video clips that I go over. There was also a brief 15 minute Q&A section at the end for those topics that I may have missed. 
 
