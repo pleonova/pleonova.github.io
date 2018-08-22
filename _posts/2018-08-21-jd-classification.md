@@ -2,7 +2,7 @@
 title: "What is the difference between a Data Scientist and a Data Analyst?"
 date: 2018-08-21
 tags: [Classification, Python, Naive Bayes]
-excerpt: "A model that predicts the role from just the job description."
+excerpt: "A model that predicts the position title from just the job description."
 mathjax: true
 ---
 
@@ -45,5 +45,5 @@ Whether the above solidified what you had previously percieved about the two rol
 ## Next Steps
 I have merely scratched the surface with this project and am excited to dig deeper to see how I can make the model more robust and insightful. For one, I would like to isolate terms based on the location or heading they are under in order to understand their level of importance for a given role. Furthermore, I'd like to collect a larger sample size and split out my data into junior and senior roles. 
 
-To learn more about this project and stay updated about the progress, please feel free to checkout [my github repo](https://github.com/pleonova/jd-classifier).
+To learn more about this project and stay updated about the progress, please feel free to check out [my github repo](https://github.com/pleonova/jd-classifier).
 
