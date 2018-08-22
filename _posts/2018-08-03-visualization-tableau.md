@@ -2,7 +2,7 @@
 title: "Introduction to Data Analysis and Visual Design with Tableau"
 date: 2018-08-03
 tags: [Visualizations, Tableau, Talks, Tutorials]
-excerpt: "A talk I gave about visualizaions in Tableau, including resources."
+excerpt: "A talk I gave about creating visualizaions in Tableau."
 mathjax: true
 ---
 
