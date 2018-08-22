@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Data Analysis and Visual Design with Tableau + Video"
+title: "Introduction to Data Analysis and Visual Design with Tableau"
 date: 2018-08-03
 tags: [Visualizations, Tableau, Talks, Tutorials]
 excerpt: "A talk I gave about visualizaions in Tableau, including resources."
@@ -13,7 +13,7 @@ The original talk was taped and has been watched 1.5K times on Facebook, you can
 <iframe width="640" height="360" src="https://www.youtube.com/watch?v=JZ1rGCAcQC0&t" frameborder="0" allowfullscreen></iframe>
 
 
-<iframe src= "https://public.tableau.com/views/WhatdidIdoinMay2017/Activity1vsActivity2?:showVizHome=no&:embed=true" width="90%" height="500"></iframe>
+<iframe src= "https://public.tableau.com/views/WhatdidIdoinMay2017/Activity1vsActivity2?:showVizHome=no&:embed=true" width="50%" ></iframe>
 
 In this 20 minute talk, I presented some general tips for creating data reports as well as how to build indepth and dynamic dashboards in Tableau. The second part of the talk goes into detail about how to build various types of visualizations, which includes 5-25 second instructional video clips that I go over. There was also a brief 15 minute Q&A section at the end for those topics that I may have missed. 
 
