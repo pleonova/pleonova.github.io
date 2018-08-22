@@ -26,18 +26,22 @@ I am curious if other companies will follow this example and broaden the definit
  
 It is no surprise that *sql* and *analysis* show up frequently in both postings (see chart below). What is interesting, however, is that *statistics* shows up in both. Context is very important; the words that show up surrounding this term provide additional information about the level of expertise required. Upon further inspection, it looks like this term frequently shows up alongside a list of other quantitative degrees, for both roles, so it is less surprising than it was at initial glance. Another term that appears frequently for both is *python*. The frequency of which this word shows up for Data Scientist roles is, however, significantly higher than the times it appears in data analyst JDs. Almost 90% of the data science roles contain the key term, while only 60% of the data analyst JDs have it, indicating that python is an expected skill for a data scientist.
 
-<img src="https://github.com/pleonova/jd-classifier/blob/master/Images/TorandoChart_TermSensitivity_BothRoles.png">
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png" alt="" width="400" align="center">
-
+<p align="center">
+  <img width="400" src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png">
+</p>
 
 Surveying the top terms for just a Data Scientist, results in a collection of words that are more technical in nature. Some of the top terms are: *machine learning*, *platform*, *algorithms*, *models*, *java*, *programming*, *development* (see left chart below). Because data science is more of a mix of a statistician and a computer scientist, these terms are not surprising at all. 
 
+<p align="center">
+  <img width="400" src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png">
+</p>
+
 For data analysts, the key words tend to focus more on information dispersal, whether it be through verbal forms or in written form () or through . Data retrieval and organization is also a common theme: 
 
+<p align="center">
+  <img width="400" src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png">
+</p>
 
-
-<img src="https://github.com/pleonova/jd-classifier/blob/master/Images/TorandoChart_TermSensitivity_DataScientist.png" width="400"> <img src="https://github.com/pleonova/jd-classifier/blob/master/Images/TorandoChart_TermSensitivity_Analyst.png" width="400" align="right">
 
 ## Next Steps
 I have merely scratched the surface with this project and am excited to dig deeper to see how I can make the model more robust and insightful. For one, I would like to isolate terms based on the location or heading they are under in order to understand their level of importance for a given role. Furthermore, I'd like to collect a larger sample size and split out my data into junior and senior roles. 
