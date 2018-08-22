@@ -35,7 +35,7 @@ Surveying the top terms for just data scientist, results in a collection of word
   <img width="400" src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png">
 </p>
 
-For data analysts, the key words tend to focus more on information dispersal, whether it be through through verbal or written form: *reports*, *dashboards*, *reporting*, *communication*, *verbal*. Data retrieval and organization is another theme that comes up: *excel*, *sql skills*, *strong sql*, *trends*.
+For data analysts, the key words tend to focus more on information dispersal, whether it be through through verbal or written form: *reports*, *reporting*, *dashboards*, *communication*, *verbal*. Data retrieval and organization is another theme that comes up: *excel*, *strong sql*, *sql skills*, *trends*.
 
 <p align="center">
   <img width="400" src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png">
