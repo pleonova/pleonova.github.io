@@ -27,9 +27,13 @@ I initially set out to use previous work projects as examples but instead opted 
 I tracked how much time I spent: working, eating out, exercising, doing chores, cooking, etc. One of my personal goals was to perhaps learn something new myself and potentially change some of my hehavior based on what patterns I saw. I actually did end up changing 2 things after visualizing my data.
 
 ## 2. Dashboard Creation 
-I created two interactive dashboards to explain the creation process as well as show a breadth of visualizations available in Tableau. The first one was a [general overview* of my month](https://public.tableau.com/profile/paula#!/vizhome/GuesstheUnderlyingDataexposed/SampleReport), which is typical of the types of high level dashboards companies have (I go into this in my talk). The second one was a [deep dive into my activities](https://public.tableau.com/profile/paula#!/vizhome/WhatdidIdoinMay2017/Activity1vsActivity2).
+I created two interactive dashboards to explain the creation process as well as show a breadth of visualizations available in Tableau. The first one was a [general overview* of my month](https://public.tableau.com/profile/paula#!/vizhome/GuesstheUnderlyingDataexposed/SampleReport), which is typical of the types of high level dashboards companies have (I go into this in my talk). The second one was a [deep dive into my activities](https://public.tableau.com/profile/paula#!/vizhome/WhatdidIdoinMay2017/Activity1vsActivity2). Here I chose to focus in on any two activities.  
 
-One of my personal goals for this second dashbaord was to learn something new about my behavior and as a result, modify some of my tendencies.
+<figure class="half">
+    <a href="/images/tableau-visual/drill-down-part1.JPG"><img src="/images/tableau-visual/drill-down-part1.JPG"></a>
+    <a href="/images/tableau-visual/drill-down-part2.JPG"><img src="/images/tableau-visual/drill-down-part2.JPG"></a>
+<figcaption><a href="https://public.tableau.com/profile/paula#!/vizhome/WhatdidIdoinMay2017/Activity1vsActivity2" title="A Deep Dive into 2 of My Monthly Activities">A Deep Dive into 2 of My Monthly Activities</a>.</figcaption></figure>
+
 
 
 
