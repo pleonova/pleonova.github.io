@@ -2,25 +2,37 @@
 title: "Introduction to Data Analysis and Visual Design with Tableau"
 date: 2018-08-03
 tags: [Visualizations, Tableau, Talks, Tutorials]
-excerpt: "A talk I gave about creating visualizaions in Tableau."
+excerpt: "A presentation I gave about creating visualizaions in Tableau."
 mathjax: true
 ---
+## Summary
 
-Back in October of last year, I was invited to give a talk at Product School at their San Francisco office about data analysis and visualization in Tableau. Since then I have given a variation of this talk at their other location in Santa Clara and at San Jose State University to a class of Business School students.
+Back in 2017, I was invited to give a talk at Product School at their San Francisco office about data analysis and visualization in Tableau in front of an **audience of 100+ professionals**. Since then I have given a variation of this talk at their other location in Santa Clara and at San Jose State University to a class of Business School students.
 
-The original talk was taped and has been watched 1.5K times on Facebook, you can find the link [here](https://www.facebook.com/productschool/videos/1899646390253735/). A better quality link on youtube also exists [here](https://www.youtube.com/watch?v=JZ1rGCAcQC0&t).
+The original talk was taped and has been **watched 1.5K times** on Facebook, you can find the link [here](https://www.facebook.com/productschool/videos/1899646390253735/) or watch it below.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/JZ1rGCAcQC0?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe src= "https://public.tableau.com/views/WhatdidIdoinMay2017/Activity1vsActivity2?:showVizHome=no&:embed=true" frameborder="0" 
-height="400" 
-width="575" 
-scrolling="no"></iframe>
+Furthermore, the dashboards that I designed and built for the talks have been **viewed nearly 2K times**. 
 
-<center><iframe src="https://public.tableau.com/views/WhatdidIdoinMay2017/Activity1vsActivity2?:showVizHome=no:embed=y&:display_count=yes&:toolbar=no" width="1004" height="1269" frameborder="0"></iframe></center>
+## Process
+(1) Data Collection
+(2) Dashboard Creation
+(3) Slide Deck with Instructional GIFs
+(4) Presentations
 
-<center><iframe src="https://public.tableau.com/views/WhatdidIdoinMay2017/Activity1vsActivity2?:showVizHome=no:embed=y&:display_count=yes&:toolbar=no" width="100%" height="100%" frameborder="0" allowfullscreen></iframe></center>
+## 1. Data Collection
+I initially set out to use previous work projects as examples but instead opted to collect my own data to make this project more personal. Since I embedded detailed GIFs into my deck, I did not want to use any proprietary data. I chose to track the places that I visited and length of visit for an entire month. 
 
+## 2. Dashboard Creation 
+I created two dashboards for this presentation. The first one was a *general overview* of my month, which is typical of the types of high level dashboards companies have. The second one was a *deep dive* into my activities. One of the goals that I had for this second dashboard was to learn something new about my behavior and as a result, modify some of tendencies.
+
+
+
+<center><iframe src="https://public.tableau.com/views/GuesstheUnderlyingDataexposed/SampleReport?:showVizHome=no:embed=y&:display_count=yes&:toolbar=no" width="1004" height="400" frameborder="0"></iframe></center>
+
+
+<center><iframe src="https://public.tableau.com/views/WhatdidIdoinMay2017/Activity1vsActivity2?:showVizHome=no:embed=y&:display_count=yes&:toolbar=no" width="1004" height="400" frameborder="0"></iframe></center>
 
 In this 20 minute talk, I presented some general tips for creating data reports as well as how to build indepth and dynamic dashboards in Tableau. The second part of the talk goes into detail about how to build various types of visualizations, which includes 5-25 second instructional video clips that I go over. There was also a brief 15 minute Q&A section at the end for those topics that I may have missed. 
 
