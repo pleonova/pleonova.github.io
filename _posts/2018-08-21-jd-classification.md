@@ -7,6 +7,8 @@ mathjax: true
 ---
 
 ## Approach
+I decided to take an unconvential approach to answering this question. Rather than talking from my personal experience, I wanted to create a model that could answer this question on its own. What I ended up doing was collecting job descriptions for data scientist and data analyst roles posted by the big tech companies and training a model on a subset to see if I could accurately predict the remaining titles from just the job descriptions. My sample consisted of primarily of some of Silicon Valley's biggest tech companies
+
 I extracted the words and phrases from job descriptions of the big tech companies in Silicon Valley and built a supervised model to see if it could predict, from just the description, whether the role was for a data scientist or data analyst.  
 
 ## Summary
