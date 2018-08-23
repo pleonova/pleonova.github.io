@@ -4,6 +4,7 @@ date: 2018-08-03
 tags: [Visualizations, Tableau, Talks, Tutorials]
 excerpt: "A presentation I gave about creating visualizaions in Tableau."
 mathjax: true
+comments: true
 ---
 ## Summary
 
