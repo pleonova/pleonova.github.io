@@ -49,7 +49,7 @@ The second one was a [deep dive into my activities](https://public.tableau.com/p
 
 Other than having a fun data source to work with and something that everyone could relate to, I wanted to put together a presentation that others could refer back to if they got stuck on something. I decided that GIFs would be a good way to help walk people through the steps needed to complete a chart from start to finish. 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEKBE8RtjzS680eFkozAaHOs5CL7rOx1F5KEedjV86rGXpuzTJeSPT2GPsz-clDvxRkgC4OwrONT3y/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEKBE8RtjzS680eFkozAaHOs5CL7rOx1F5KEedjV86rGXpuzTJeSPT2GPsz-clDvxRkgC4OwrONT3y/embed?start=false&loop=false&delayms=3000" frameborder="0" width="500" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## 4. Presentations
 
