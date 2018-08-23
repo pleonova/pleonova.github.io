@@ -37,11 +37,11 @@ For instance, week 21 jumps out at me immediately as there is a dip in the brown
 </figure>
 
 
-The second one was a [deep dive into my activities](https://public.tableau.com/profile/paula#!/vizhome/WhatdidIdoinMay2017/Activity1vsActivity2). This is the dashboard I would use to understand the trends and patterns on a more micro level. I could select a different activity and investigate the dip in work that occured on week 21. I could also examine the current chart to see what happened to that green spike (hint this is when I started creating my report and realized I wasn't working out much, hence I immediately went to the pickup Ultimate). 
+The second one was a [deep dive into my activities](https://public.tableau.com/profile/paula#!/vizhome/WhatdidIdoinMay2017/Activity1vsActivity2). This is the dashboard I would use to understand the trends and patterns on a more micro level. I could select a different activity and investigate the dip in work that occured on week 21. I could also examine the current chart to see what happened to that green spike (hint this is when I started creating my report and realized I wasn't working out much, hence I immediately went to the gym). 
 
 <figure>
 	<a href="/images/tableau-visual/drill-down-part1and2.jpg"><img src="/images/tableau-visual/drill-down-part1and2.jpg"></a>
-	<figcaption><a href="https://public.tableau.com/profile/paula#!/vizhome/WhatdidIdoinMay2017/Activity1vsActivity2" title="Summary View of My Monthly Activities">A Deep Dive into My Activities</a>.</figcaption>
+	<figcaption><a href="https://public.tableau.com/profile/paula#!/vizhome/WhatdidIdoinMay2017/Activity1vsActivity2" title="Summary View of My Monthly Activities">A Deep Dive into My Activities</a></figcaption>
 </figure>
 
 
@@ -49,16 +49,15 @@ The second one was a [deep dive into my activities](https://public.tableau.com/p
 
 Other than having a fun data source to work with and something that everyone could relate to, I wanted to put together a presentation that others could refer back to if they got stuck on something. I decided that GIFs would be a good way to help walk people through the steps needed to complete a chart from start to finish. 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEKBE8RtjzS680eFkozAaHOs5CL7rOx1F5KEedjV86rGXpuzTJeSPT2GPsz-clDvxRkgC4OwrONT3y/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEKBE8RtjzS680eFkozAaHOs5CL7rOx1F5KEedjV86rGXpuzTJeSPT2GPsz-clDvxRkgC4OwrONT3y/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## 4. Presentations
 
 In the above recorded 20 minute talk, I presented some general tips for creating data reports as well as how to build indepth and dynamic dashboards in Tableau. The second part of the talk went into detail about how to build various types of visualizations, where I went over 5-25 second instructional GIFs that I created. I made this second part as modular as possible so that it would be easy to refer back to later if there were any specific questions about creating the charts. Each of my talks also had a 15 Q&A session where I answered more general questions (the first one is recorded above).
 
 ## Concluding Thoughts
-I really enjoyed giving this presentation and hope that those who attended my sessions were able to take something away from my talks. I also learned one or two things about myself from the data that I collected. 
+I really enjoyed giving this presentation and hope that those who attended my sessions were able to take something away from my talks. 
 
-I realized that I wasn't exercising as much as I'd like and so I immediately started to work out more (you can see the green spike in the chart above). I also went out and bought a Fitbit because I was frustrated by the lack of accurate sleep data that I had about myself.
-
-
+I also learned one or two things about myself from the data that I collected. I realized that I wasn't exercising as much as I'd like and so I immediately started to work out more (you can see the green spike in the chart above). Also 
+seeing where I ate out and that it was only within a 2 mile radius of my house made me re-evaluate my decisions. 
 
