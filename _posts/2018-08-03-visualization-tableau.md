@@ -53,7 +53,7 @@ Other than having a fun data source to work with and something that everyone cou
 
 ## 4. Presentations
 
-In the above recorded 20 minute talk, I presented some general tips for creating data reports as well as how to build indepth and dynamic dashboards in Tableau. The second part of the talk went into detail about how to build various types of visualizations, where I went over 5-25 second instructional GIFs that I created. I made this second part as modular as possible so that it would be easy to refer back to later if there were any specific questions about creating the charts. Each of my talks also had a 15 Q&A session where I answered more general questions (the first one is recorded above).
+In the above recorded 20 minute talk, I presented some general tips for creating data reports as well as how to build indepth and dynamic dashboards in Tableau. The second part of the talk went into detail about how to build various types of visualizations, where I went over 5-25 second instructional GIFs that I created. I made this second part as modular as possible so that it would be easy to refer back to later if there were any specific questions about creating the charts. Each of my talks also had a 15 minute Q&A session where I answered more general questions (the first one is recorded above).
 
 ## Concluding Thoughts
 I really enjoyed giving this presentation and hope that those who attended my sessions were able to take something away from my talks. 
