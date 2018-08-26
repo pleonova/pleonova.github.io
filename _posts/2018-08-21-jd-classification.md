@@ -1,5 +1,5 @@
 ---
-title: "What is the difference between a Data Scientist and a Data Analyst?"
+title: "How do employers distinguish Data Scientists and Data Analysts?"
 date: 2018-08-21
 tags: [Classification, Python, Naive Bayes]
 excerpt: "A model that predicts the title from just the job description."
