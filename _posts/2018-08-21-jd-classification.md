@@ -15,7 +15,7 @@ I ended up training a Multinomial Naives Bayes model to predict the job titles w
 ## Takeaways
 **Examining the results that my model classified incorrectly actually gives insight into employers and their expectations.**
 
-There are several reasons why a company might choose to display a title where the description does not match the role. Lyft, for example, on their blog, wrote the following article [What's in a name?](https://eng.lyft.com/whats-in-a-name-ce42f419d16c), where they explained that they strategically chose to change the title of a data analyst to a data scientist to retain talent (in my model, this role comes up as a false positive). However, instead of encompassing both roles in one title, they updated that of data scientist to research scientist. Others have done it to attract talent and get a pool of applicants that are simply drawn to the [Sexist Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), as initially proclaimed by Harvard Business Review. While others have changed the title to data scientist, but kept the data analyst description to attract more skilled workers.
+There are several reasons why a company might choose to display a title where the description does not match the role. Lyft, for example, on their blog, wrote the following article [What's in a name?](https://eng.lyft.com/whats-in-a-name-ce42f419d16c), where they explained that they strategically chose to change the title of a data analyst to a data scientist to retain talent (in my model, this role comes up as a false positive). However, instead of encompassing both roles in one title, they updated that of data scientist to research scientist. Others have done it to attract talent and get a pool of applicants that are simply drawn to the [Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), as proclaimed by Harvard Business Review. While others have changed the title to data scientist, but kept the data analyst description to attract more skilled workers.
 
 I am curious if other companies will follow this example and broaden the definition of a data scientist. Will more companies use these two terms interchangeably or create new terminology like research scientist?
 
@@ -25,9 +25,9 @@ It is no surprise that *sql* and *analysis* show up frequently in both postings 
 
 Another term that appears frequently for both is *python*. The frequency of which this word shows up for data scientist roles is, however, significantly higher than the times it appears in data analyst JDs. Almost 90% of the data science roles contain the key term, while only 60% of the data analyst JDs have it, indicating that python is an expected skill for a data scientist.
 
-<p align="center">
-  <img width="400" src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png">
-</p>
+<figure>
+	<a href="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png"><img src="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png"></a>
+</figure>
 
 Surveying the top terms for just data scientist, results in a collection of words that are more technical in nature. Some of the top terms are: *machine learning*, *platform*, *algorithms*, *models*, *java*, *programming*, *development* (see chart below). Because data science is more of a mix of a statistician and a computer scientist, these terms are not surprising at all. 
 
