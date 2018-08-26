@@ -7,10 +7,10 @@ mathjax: true
 ---
 
 ## Overview
-I decided to take a somewhat unconvential approach to answering this question. Rather than talking about my personal experience, I wanted to create a model that could answer this question on its own. What I ended up doing was collecting job descriptions for data scientist and data analyst roles posted by the big tech companies in Silicon Valley and training a model on a subset to see if I could accurately predict the remaining titles from just the job descriptions. 
+Being a data practioner, I often get asked the question of *What is the difference between a data scientist and a data analyst?* Though I could answer this question empirically, I decided to take a data-driven approach and build a model to identify the distinction between this two roles. What I ended up doing was collecting job descriptions for data scientist and data analyst roles posted by the big tech companies in Silicon Valley and training a model on a subset to see if I could accurately predict the remaining titles from just the job descriptions. 
 
 ## Results
-I ended up training a Multinomial Naives Bayes model to predict the job titles with a **ROC AUC of 88%**. Unsurprisingly, the top key words/phrases for data scientist were: *machine learning*, *models*, *algorithms* while that for data analysts were: *reports*, *dashboards*, and *excel*. 
+I ended up training a Multinomial Naives Bayes model to predict the job titles which had a **ROC AUC of 88%**. Unsurprisingly, the top key words/phrases for data scientist were: *machine learning*, *models*, *algorithms* while that for data analysts were: *reports*, *dashboards*, and *excel*. 
 
 ## Takeaways
 **Examining the results that my model classified incorrectly actually gives insight into employers and their expectations.**
