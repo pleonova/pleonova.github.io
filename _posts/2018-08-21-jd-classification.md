@@ -7,10 +7,10 @@ mathjax: true
 ---
 
 ## Overview
-Being a data practioner, I often get asked the question of *What is the difference between a data scientist and a data analyst?* Though I usually answer this question empirically, I decided to take a data-driven approach and build a model to more systemtically identify the distinction between these two roles. What I ended up doing was collecting job descriptions for data scientist and data analyst roles posted by the big tech companies in Silicon Valley and training a model on a subset to see if I could accurately predict the remaining titles from just the job descriptions. 
+Being a data practioner, I often get asked the question *What is the difference between a data scientist and a data analyst?* Though I usually answer this question empirically, I decided to take a data-driven approach and build a model to more systemtically identify the distinction between these two roles. What I ended up doing was collecting job descriptions for data scientist and data analyst roles posted by the big tech companies in Silicon Valley and training a model on a subset to see if I could accurately predict the remaining titles from just the job descriptions. 
 
 ## Results
-I ended up training a Multinomial Naives Bayes model to predict the job titles which had a **ROC AUC of 88%**. Unsurprisingly, the top key words/phrases for data scientist were: *machine learning*, *models*, *algorithms* while that for data analysts were: *reports*, *dashboards*, and *excel*. 
+I ended up training a Multinomial Naives Bayes model to predict the job titles. My final model had an **ROC AUC of 88%**, meaning my model did fairly well to account for both the true positive rate (sensitivity) and the false positive rate (100-specificity). Unsurprisingly, the top key words/phrases for data scientist were: *machine learning*, *models*, *algorithms* while that for data analysts were: *reports*, *dashboards*, and *excel*. 
 
 ## Takeaways
 **Examining the results that my model classified incorrectly actually gives insight into employers and their expectations.**
