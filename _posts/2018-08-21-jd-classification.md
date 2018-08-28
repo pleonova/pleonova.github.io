@@ -25,7 +25,7 @@ It is no surprise that *sql* and *analysis* show up frequently in both postings 
 
 Another term that appears frequently for both is *python*. The frequency of which this word shows up for data scientist roles is, however, considerably higher than the times it appears in data analyst JDs. Almost 90% of the data science roles contain the key term, while only 60% of the data analyst JDs have it, indicating that python is an expected skill for a data scientist.
 
-<figure>
+<figure align="center">
 	<a href="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png">
     <img src="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png" style="width:50% !important;"></a>
     <figcaption>Click image to enlarge</figcaption>
