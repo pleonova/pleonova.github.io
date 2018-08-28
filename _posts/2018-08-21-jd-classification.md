@@ -65,5 +65,3 @@ I have merely scratched the surface with this project and am excited to dig deep
 To learn more about this project and stay updated about the progress, please feel free to check out [my github repo](https://github.com/pleonova/jd-classifier).
 
 
-<img src="https://github.com/pleonova/jd-classifier/blob/master/Images/TorandoChart_TermSensitivity_DataScientist.png" width="400"> <img src="https://github.com/pleonova/jd-classifier/blob/master/Images/TorandoChart_TermSensitivity_Analyst.png" width="400" align="right">
-
