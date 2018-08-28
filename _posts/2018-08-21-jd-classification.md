@@ -40,7 +40,7 @@ Surveying the top terms for data scientist, results in a collection of words tha
 
 <figure>
 	<a width="50" href="/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png">
-    <img src="/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png"></a>
+    <img width="50%" src="/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png"></a>
     <figcaption>Click image to enlarge</figcaption>
 </figure>
 
