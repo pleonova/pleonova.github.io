@@ -27,7 +27,7 @@ Another term that appears frequently for both is *python*. The frequency of whic
 
 <figure>
 	<a href="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png">
-    <img src="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png" style="width:100% !important;"></a>
+    <img src="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png" style="width:50% !important;"></a>
     <figcaption>Click image to enlarge</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Surveying the top terms for data scientist, results in a collection of words tha
 
 <figure>
 	<a href="/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png">
-    <img src="/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png" style="width:50px !important;height:45px !important;"></a>
+    <img src="/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png" style="width:50% !important;"></a>
     <figcaption>Click image to enlarge</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ For data analysts, the key words tend to focus more on information dissemination
 
 <figure>
 	<a href="/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png">
-    <img src="/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png" width="10" height="20"></a>
+    <img src="/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png" style="width:50% !important;"></a>
     <figcaption>Click image to enlarge</figcaption>
 </figure>
 
