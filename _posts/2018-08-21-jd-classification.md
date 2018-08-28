@@ -28,18 +28,12 @@ Another term that appears frequently for both is *python*. The frequency of whic
 <figure align="center">
 	<a href="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png">
     <img src="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png" style="width:50% !important;"></a>
-    <figcaption align="center">Click image to enlarge</figcaption>
+    <figcaption align="center !important;">Click image to enlarge</figcaption>
 </figure>
 
 Surveying the top terms for data scientist, results in a collection of words that are more technical in nature. Some of the top terms are: *machine learning*, *platform*, *algorithms*, *models*, *java*, *programming*, *development* (see chart below). Because data science is more of a mix of a statistics and a computer science, these terms are not surprising at all. 
 
-<!--
-<p align="center">
-  <img width="400" href="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png" src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png">
-</p>
--->
-
-<figure>
+<figure align="center">
 	<a href="/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png">
     <img src="/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png" style="width:50% !important;"></a>
     <figcaption>Click image to enlarge</figcaption>
@@ -47,11 +41,7 @@ Surveying the top terms for data scientist, results in a collection of words tha
 
 For data analysts, the key words tend to focus more on information dissemination, whether it be through through verbal or written form: *reports*, *reporting*, *dashboards*, *communication*, *verbal*. Data retrieval and organization is another theme that comes up: *excel*, *strong sql*, *sql skills*, *trends*.
 
-<!--<p align="center">
-  <img width="400" src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png">
-</p>-->
-
-<figure>
+<figure align="center">
 	<a href="/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png">
     <img src="/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png" style="width:50% !important;"></a>
     <figcaption>Click image to enlarge</figcaption>
