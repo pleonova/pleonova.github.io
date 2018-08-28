@@ -264,6 +264,8 @@ figure {
 /* Figure captions */
 
 figcaption {
+  display: flex;
+  flex-direction: row;
   margin-bottom: 0.5em;
   color: $muted-text-color;
   font-family: $caption-font-family;
