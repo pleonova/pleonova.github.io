@@ -209,6 +209,7 @@ li ol {
 figure {
   display: -webkit-box;
   display: flex;
+  flex-direction:  column;
   -webkit-box-pack: justify;
   justify-content: space-between;
   -webkit-box-align: center;
