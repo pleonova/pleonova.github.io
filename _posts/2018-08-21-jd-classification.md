@@ -28,7 +28,7 @@ Another term that appears frequently for both is *python*. The frequency of whic
 <figure align="center">
 	<a href="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png">
     <img src="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png" style="width:50% !important;"></a>
-    <figcaption align="center !important;">Click image to enlarge</figcaption>
+    <figcaption>   Click image to enlarge</figcaption>
 </figure>
 
 Surveying the top terms for data scientist, results in a collection of words that are more technical in nature. Some of the top terms are: *machine learning*, *platform*, *algorithms*, *models*, *java*, *programming*, *development* (see chart below). Because data science is more of a mix of a statistics and a computer science, these terms are not surprising at all. 
