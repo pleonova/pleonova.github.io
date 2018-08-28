@@ -26,21 +26,37 @@ It is no surprise that *sql* and *analysis* show up frequently in both postings 
 Another term that appears frequently for both is *python*. The frequency of which this word shows up for data scientist roles is, however, considerably higher than the times it appears in data analyst JDs. Almost 90% of the data science roles contain the key term, while only 60% of the data analyst JDs have it, indicating that python is an expected skill for a data scientist.
 
 <figure>
-	<a width="200" href="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png"><img src="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png"></a>
+	<a width="100" href="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png"><img src="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png"></a>
     <figcaption>Click image to enlarge</figcaption>
 </figure>
 
 Surveying the top terms for data scientist, results in a collection of words that are more technical in nature. Some of the top terms are: *machine learning*, *platform*, *algorithms*, *models*, *java*, *programming*, *development* (see chart below). Because data science is more of a mix of a statistics and a computer science, these terms are not surprising at all. 
 
 <p align="center">
-  <img width="400" src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png">
+  <img width="400" href="/images/jd-classifier/TorandoChart_TermSensitivity_BothRoles.png" src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png">
 </p>
+
+<!--
+<figure>
+	<a width="200" href="/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png">
+    <img src="/images/jd-classifier/TorandoChart_TermSensitivity_DataScientist.png"></a>
+    <figcaption>Click image to enlarge</figcaption>
+</figure>
+-->
 
 For data analysts, the key words tend to focus more on information dissemination, whether it be through through verbal or written form: *reports*, *reporting*, *dashboards*, *communication*, *verbal*. Data retrieval and organization is another theme that comes up: *excel*, *strong sql*, *sql skills*, *trends*.
 
 <p align="center">
   <img width="400" src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png">
 </p>
+
+<!--
+<figure>
+	<a width="200" href="/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png">
+    <img src="/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png"></a>
+    <figcaption>Click image to enlarge</figcaption>
+</figure>
+-->
 
 ## Final Thoughts
 Whether the above solidified what you had previously perceived about the two roles or whether it was new information, the goal was to answer this common question from an employers perspective and hopefully in an automated way.
