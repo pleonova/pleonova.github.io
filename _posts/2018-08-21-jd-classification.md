@@ -46,17 +46,15 @@ Surveying the top terms for data scientist, results in a collection of words tha
 
 For data analysts, the key words tend to focus more on information dissemination, whether it be through through verbal or written form: *reports*, *reporting*, *dashboards*, *communication*, *verbal*. Data retrieval and organization is another theme that comes up: *excel*, *strong sql*, *sql skills*, *trends*.
 
-<p align="center">
+<!--<p align="center">
   <img width="400" src="{{ site.url }}{{ site.baseurl }}/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png">
-</p>
+</p>-->
 
-<!--
 <figure>
-	<a width="200" href="/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png">
-    <img src="/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png"></a>
+	<a href="/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png">
+    <img src="/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png" width="10" height="20"></a>
     <figcaption>Click image to enlarge</figcaption>
 </figure>
--->
 
 ## Final Thoughts
 Whether the above solidified what you had previously perceived about the two roles or whether it was new information, the goal was to answer this common question from an employers perspective and hopefully in an automated way.
