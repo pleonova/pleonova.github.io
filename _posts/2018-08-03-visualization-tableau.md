@@ -23,9 +23,9 @@ Furthermore, the dashboards that I designed and built for the talks have been **
 4. Presentations
 
 ## 1. Data Collection
-I initially set out to use previous work projects as examples but instead opted to collect my own data to make this project more personal. Since I embedded detailed GIFs into my deck, I did not want to use any proprietary data. I chose to track the places that I visited and length each visit for an entire month. 
+I initially set out to use previous work projects as examples but instead opted to collect my own data to make this project more personal. Since I embedded detailed GIFs into my deck, I did not want to use any proprietary data. I chose to track the places that I visited and length of each visit for an entire month. 
 
-I tracked how much time I spent: working, eating out, exercising, doing chores, cooking, etc. One of my personal goals was to perhaps learn something new myself and potentially change some of my hehavior based on what patterns I saw. I actually did end up changing 2 things after visualizing my data.
+I tracked how much time I spent: working, eating out, exercising, doing chores, cooking, etc. One of my personal goals was to learn something new about myself and potentially change some of my hehavior based on what patterns I saw. I actually did end up changing 2 things after visualizing my data.
 
 ## 2. Dashboard Creation 
 I created two interactive dashboards to explain the thought process behind data design as well as to show the breadth of visualizations available in Tableau. The first one was a [general overview of my month](https://public.tableau.com/profile/paula#!/vizhome/GuesstheUnderlyingDataexposed/SampleReport), which is typical of the types of high level dashboards companies use to summarize data. These type of views are used to monitor as well as identify any big changes, which would then require further investigation. 
