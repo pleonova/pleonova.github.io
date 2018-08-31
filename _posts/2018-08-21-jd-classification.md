@@ -21,7 +21,7 @@ I am curious if other companies will follow this example and broaden the definit
 
 **Frequent terms establish the baseline knowledge expected in both roles, while frequent but unique terms per role highlight key differences.**
  
-It is no surprise that *sql* and *analysis* show up frequently in both postings (see chart below). What is interesting, however, is that *statistics* shows up in both. Context is very important; the words that show up surrounding this term provide additional information about the level of expertise required. Upon further inspection, it looks like this term frequently shows up alongside a list of other quantitative degrees, for both roles, so it is less surprising than it was at initial glance. 
+It is no surprise that *SQL* and *analysis* show up frequently in both postings (see chart below). What is interesting, however, is that *statistics* shows up in both. Context is very important; the words that show up surrounding this term provide additional information about the level of expertise required. Upon further inspection, it looks like this term frequently shows up alongside a list of other quantitative degrees, for both roles, so it is less surprising than it was at initial glance. 
 
 Another term that appears frequently for both is *Python*. The frequency of which this word shows up for Data Scientist roles is, however, considerably higher than the times it appears in Data Analyst JDs. Almost 90% of the data science roles contain the key term, while only 60% of the Data Analyst JDs have it, indicating that Python is an expected skill for a Data Scientist.
 
@@ -39,7 +39,7 @@ Surveying the top terms for Data Scientist, results in a collection of words tha
     <figcaption>Click image to enlarge</figcaption>
 </figure>
 
-For Data Analysts, the key words tend to focus more on information dissemination, whether it be through through verbal or written form: *reports*, *reporting*, *dashboards*, *communication*, *verbal*. Data retrieval and organization is another theme that comes up: *excel*, *strong sql*, *sql skills*, *trends*.
+For Data Analysts, the key words tend to focus more on information dissemination, whether it be through through verbal or written form: *reports*, *reporting*, *dashboards*, *communication*, *verbal*. Data retrieval and organization is another theme that comes up: *excel*, *strong SQL*, *SQL skills*, *trends*.
 
 <figure align="center">
 	<a href="/images/jd-classifier/TorandoChart_TermSensitivity_Analyst.png">
