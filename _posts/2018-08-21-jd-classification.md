@@ -61,6 +61,3 @@ If you have any thoughts about other applications or potential use cases, I'd be
 
 ## Final Thoughts
 Though there is quite a bit of overlap between these two roles, there are enough unique key terms that are common for one role but not the other that help to differentiate the roles. As a result, the model did fairly well in distinguishing these two roles. However, as industry standards change and new hybrid roles are created (without modification to the titles), distinguishing these roles will become harder. 
-
-## Next Steps
-In order to address this concern of unkown titles, I'd like to create an unsupervised clustering algorithm which identifies new job classes through the patterns that are picked up in the descriptions.
