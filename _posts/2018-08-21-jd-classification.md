@@ -9,10 +9,13 @@ mathjax: true
 ## Motivation
 Being a data practioner, I often get asked the question *What is the difference between a Data Scientist and a Data Analyst?* Though I usually answer this question empirically, I decided to take a data-driven approach and build a model to more systemtically identify the distinction between these two roles. 
 
-## Overview
+## Process
 What I ended up doing was collecting job descriptions for Data Scientist and Data Analyst roles posted by the big tech companies in Silicon Valley on job boards and training a model on a subset to see if I could accurately predict the remaining titles from just the job descriptions. 
 
-I ended up training a Multinomial Naives Bayes model to predict the job titles. My final model had an **ROC AUC of 88%**, meaning my model did fairly well to account for both the true positive rate (sensitivity) and the false positive rate (100-specificity). Unsurprisingly, the top key words/phrases for Data Scientist were: *machine learning*, *models*, *algorithms* while that for Data Analysts were: *reports*, *dashboards*, and *excel*. 
+For a more indepth explanation of the process and accompanying code for this project, please see my [my github repo](https://github.com/pleonova/jd-classifier).
+
+## Results
+I ended up training a Multinomial Naives Bayes model to predict the job titles. My final Multinomial Naives Bayes model had an **ROC AUC of 88%**. Unsurprisingly, the top key words/phrases for Data Scientist were: *machine learning*, *models*, *algorithms* while that for Data Analysts were: *reports*, *dashboards*, and *excel*. 
 
 ## Takeaways
 **Examining the results that my model classified incorrectly actually gives insight into employers and their expectations.**
@@ -49,12 +52,15 @@ For Data Analysts, the key words tend to focus more on information dissemination
     <figcaption>Click image to enlarge</figcaption>
 </figure>
 
+## Applications
+For someone who is looking to go into the field of analytics, perhaps focusing on the skills that overlap between the two roles could be a good starting point. However, for someone looking to transition from a Data Analyst role to a Data Scientist role, focusing on the most frequent distinct skills could be of better use.
+
+For employers uncertain what to add to their job descriptions, the above key terms could be used to determine what is the industry defacto and then modify the requirements based on company needs. 
+
+If you have any thoughts about other applications or potential use cases, I'd be happy to hear your thoughs.
+
 ## Final Thoughts
-Whether the above solidified what you had previously perceived about the two roles or whether it was new information, the goal was to answer this common question from an employers perspective and hopefully in an automated way.
+Though there is quite a bit of overlap between these two roles, there are enough unique key terms that are common for one role but not the other that help to differentiate the roles. As a result, the model did fairly well in distinguishing these two roles. However, as industry standards change and new hybrid roles are created (without modification to the titles), distinguishing these roles will become harder. 
 
-## Limitations and Next Steps
-I have merely scratched the surface with this project and am excited to dig deeper to see how I can make the model more robust and insightful. For one, I would like to isolate terms based on the location or heading they are under in order to understand their level of importance for a given role. Furthermore, I'd like to collect a larger sample size and split out my data into junior and senior roles. 
-
-To learn more about this project and stay updated about the progress, please feel free to check out [my github repo](https://github.com/pleonova/jd-classifier).
-
-
+## Next Steps
+In order to address this concern of unkown titles, I'd like to create an unsupervised clustering algorithm which identifies new job classes through the patterns that are picked up in the descriptions.
