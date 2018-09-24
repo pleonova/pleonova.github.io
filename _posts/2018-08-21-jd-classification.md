@@ -57,8 +57,6 @@ For someone who is looking to go into the field of analytics, perhaps focusing o
 
 For employers uncertain what to add to their job descriptions, the above key terms could be used to determine what is the industry defacto and then modify the requirements based on company needs. 
 
-If you have any thoughts about other applications or potential use cases, I'd be happy to hear your thoughs.
-
 ## Final Thoughts
 Though there is quite a bit of overlap between these two roles, there are enough unique key terms that are common for one role but not the other that help to differentiate the roles. As a result, the model did fairly well in distinguishing these two roles. However, as industry standards change and new hybrid roles are created (without modification to the titles), distinguishing these roles will become harder. 
 
