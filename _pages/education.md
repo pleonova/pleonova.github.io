@@ -17,6 +17,7 @@ After graduating from UC Berkeley with a B.A. in Economics, I have continued my 
 - Stanford Online: **SQL** (2016)
 - Udemy: **Javascript - Understanding the Weird Parts** (2015) [40%]
 - Edx: **Supply Chain and Logistics Fundamentals** (2015) [30%]
+- Codeacademy: **How to use APIs with Python** (2015)
 - Udemy: **Ultimate Guide to Funnel Optimization** (2014)
 - Udemy: **SQL Database for Beginners** (2014)
 - Coursera: **Stanford's Machine Learning** (2013)
