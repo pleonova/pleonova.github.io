@@ -12,7 +12,7 @@ This isn't my first rodeo, as in I had several blogs before this one, remember X
 I wanted to share something that I hope one day I can revisit. This was an idea I pitched at a startup weekend that I and several other amazing folks actually ended up working on for a little bit. 
 
 
-## The Pitch
+## The Pitch: learningForest
 Imagine 100 people go through a forest, but do not leave any markings on the trees behind. New people entering the forest will be just as lost as the those before them.
 
 Now imagine 100 people go through a forest which HAS markings. (1) They do not have to start from scratch. (2) These markings help to guide them through. (3) And as more people go through, pathways begin to form.
