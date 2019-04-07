@@ -6,7 +6,9 @@ header:
 ---
 For those wondering, my traditional education was at UC Berkeley, where I got my bachelors in Economics. During my time there, I assisted several professors with their research and discovered my interest in uncovering patterns from a sea of data, what we today call Data Science, though that term wasn't coined yet at the time. 
 
-Around the time I graduated, MOOCs were just taking off (MOOCs - Massive Open Online Courses). I soon enrolled in Coursera's  quintessential Machine Learning course and was hooked. Though I've only scratched the tip of the iceberg, belwo are some of the resources I have found useful as either refreshers or for learning the latest technologies, the ones with the asterisks are the ones I would highly recommend.  
+Around the time I graduated, MOOCs were just taking off (MOOCs - Massive Open Online Courses). I soon enrolled in Coursera's  quintessential Machine Learning course and was hooked. 
+
+Though I've only scratched the tip of the iceberg, belwo are some of the resources I have found useful as either refreshers or for learning the latest technologies, the ones with the asterisks are the ones I would highly recommend.  
 
 ## Completed Online Courses
 - Udacity: **Programming Foundations with Python**
