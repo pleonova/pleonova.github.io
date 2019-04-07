@@ -8,7 +8,7 @@ For those wondering, my traditional education was at UC Berkeley, where I got my
 
 Around the time I graduated, MOOCs were just taking off (MOOCs - Massive Open Online Courses). I soon enrolled in Coursera's  quintessential Machine Learning course and was hooked. 
 
-Though I've only scratched the tip of the iceberg, belwo are some of the resources I have found useful as either refreshers or for learning the latest technologies, the ones with the asterisks are the ones I would highly recommend.  
+Though I've only scratched the tip of the iceberg, below are some of the resources I have found useful as either refreshers or for learning the latest technologies, the ones with the asterisks are the ones I would highly recommend.  
 
 ## Completed Online Courses
 - Udacity: **Programming Foundations with Python**
