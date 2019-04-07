@@ -8,21 +8,21 @@ header:
 After graduating from UC Berkeley with a B.A. in Economics, I have continued my education by taking a multitude of online courses which I have listed below. I am always looking to learn new methods and algorithms that will help me come up with better solutions to my current problems.
 
 ## Completed Online Courses
-- Udacity: **Programming Foundations with Python** (2018)
-- Data School: **Machine Learning with Text in Python** (2018)
-- Udacity: **Intro to Inferential Statistics** (2018)
-- Udacity: **Intro to Descriptive Statistics** (2017)
-- Udacity: **A/B Testing** (2017)
-- Udacity: **How to Use Git and Github** (2016)
-- Stanford Online: **SQL** (2016)
-- Udemy: **Javascript - Understanding the Weird Parts** (2015) [40%]
-- Edx: **Supply Chain and Logistics Fundamentals** (2015) [30%]
-- Codeacademy: **How to use APIs with Python** (2015)
-- Udemy: **Ultimate Guide to Funnel Optimization** (2014)
-- Udemy: **SQL Database for Beginners** (2014)
-- Coursera: **Stanford's Machine Learning** (2013)
-- Coursera: **Johns Hopkins Data Analysis** (2013)
-- Coursera: **Johns Hopkins Computing for Data Analysis** (2013)
+- Udacity: **Programming Foundations with Python**
+- Data School: **Machine Learning with Text in Python**
+- Udacity: **Intro to Inferential Statistics** 
+- Udacity: **Intro to Descriptive Statistics** 
+- Udacity: **A/B Testing**
+- Udacity: **How to Use Git and Github** 
+- Stanford Online: **SQL** 
+- Udemy: **Javascript - Understanding the Weird Parts**  [40%]
+- Edx: **Supply Chain and Logistics Fundamentals**  [30%]
+- Codeacademy: **How to use APIs with Python** 
+- Udemy: **Ultimate Guide to Funnel Optimization** 
+- Udemy: **SQL Database for Beginners** 
+- Coursera: **Stanford's Machine Learning** 
+- Coursera: **Johns Hopkins Data Analysis** 
+- Coursera: **Johns Hopkins Computing for Data Analysis** 
 
 ## Books
 - O'Reily's: **Interactive Data Visualization for the Web: An Introduction for Designing with D3** (2017-2018)  [40%]
@@ -35,4 +35,5 @@ After graduating from UC Berkeley with a B.A. in Economics, I have continued my 
 ## Current Non-Technical Book Favorites
 - **Dear Data** by Giorgia Lupi & Stefanie Posavec
 - **Tuesdays with Morrie: An Old Man, A Young Man, and Life's Greatest Lesson** by Mitch Albom
+- **Troublemakers: Silicon Valley's Coming of Age** by Leslie Berlin
 
