@@ -8,13 +8,13 @@ comments: true
 ---
 ## Summary
 
-Back in 2017, I was invited to give a talk at Product School at their San Francisco office about data analysis and visualization in Tableau in front of an **audience of 100+ professionals**. Since then I have given a variation of this talk at their other location in Santa Clara and at San Jose State University to a class of Business School students.
+Back in 2017, I was invited to give a talk at Product School at their San Francisco office about data analysis and visualization in Tableau in front of an audience of 100+ professionals. Since then I have given a variation of this talk at their other location in Santa Clara and at San Jose State University to a class of Business School students.
 
-The original talk was taped and has been **watched 1.5K times** on Facebook, you can find the link [here](https://www.facebook.com/productschool/videos/1899646390253735/) or watch it below.
+The original talk was taped and has been watched 1.5K times on Facebook, you can find the link [here](https://www.facebook.com/productschool/videos/1899646390253735/) or watch it below.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/JZ1rGCAcQC0?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 <br />
-Furthermore, the dashboards that I designed and built for the talks have been **viewed nearly 2K times**. 
+Furthermore, the dashboards that I designed and built for the talks have been viewed nearly 2K times. 
 
 ## Process
 1. Data Collection
