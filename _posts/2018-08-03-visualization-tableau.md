@@ -2,19 +2,17 @@
 title: "Introduction to Data Analysis and Visual Design with Tableau"
 date: 2018-08-03
 tags: [Visualizations, Tableau, Talks, Tutorials]
-excerpt: "A presentation I gave about creating visualizaions in Tableau."
+excerpt: "A presentation I gave about creating visualizaions and dashboards in Tableau."
 mathjax: true
 comments: true
 ---
-## Summary
+## Intro
+Back in 2017, I was invited to give a talk at Product School at their San Francisco office about data analysis and visualization in Tableau. Since then I have given a variation of this talk at their other location in Santa Clara and was invited to give the talk at San Jose State University to a class of Business School students.
 
-Back in 2017, I was invited to give a talk at Product School at their San Francisco office about data analysis and visualization in Tableau in front of an audience of 100+ professionals. Since then I have given a variation of this talk at their other location in Santa Clara and at San Jose State University to a class of Business School students.
-
-The original talk was taped and has been watched 1.5K times on Facebook, you can find the link [here](https://www.facebook.com/productschool/videos/1899646390253735/) or watch it below.
+If you would like to watch the talk, you can either watch in on Facebook [here](https://www.facebook.com/productschool/videos/1899646390253735/) or watch it below. If you would like to review the slides, with the animated instructional GIFs, I've attached them below as well. The two dashboard views can be found on my public tableau page [here](https://public.tableau.com/profile/paula).
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/JZ1rGCAcQC0?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 <br />
-Furthermore, the dashboards that I designed and built for the talks have been viewed nearly 2K times. 
 
 ## Process
 1. Data Collection
