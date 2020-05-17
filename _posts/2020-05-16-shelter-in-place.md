@@ -33,7 +33,7 @@ Nowadays if I get more than 6K steps, that's a good day (though that was also a 
 
 So how does my activity level compare to before? If I just look at time spent moving, I spent an average of 3 hours doing some sort of physical activity before, whether it was walking over to the kitchen in the office or snowboarding on the weekend. I am currently spending a little less than 2 hours moving (you can only go on so many walks, imo).
 
-Just eyeballing the chart below, the two density plots don't look all *that* different, sadly. And if we want to get technical, they actually aren't (running a Welch's t-test on the data shows up that there was no real difference in time spent moving).
+Just eyeballing the chart below, the two density plots don't look all *that* different, sadly. But thankfully, technically speaking, they actually are different (running a Welch's t-test on the data shows up that there is actually a significant difference in time spent moving).
 
 <figure align="center">
 	<a href="/images/shelter-in-place/active_differences_pre_post.png">
@@ -43,7 +43,7 @@ Just eyeballing the chart below, the two density plots don't look all *that* dif
 
 What is interesting, though not really surprising if I think about it more, is how much variability I had before. I definitely had a handful of days where I got fewer steps in than I do now, but I would "make up for it" on the weekend (that's how exercise works, right). Ultimately, those "make up" days, at least time wise (not accounting for intensity), didn't really make up for the other days. 
 
-Since I have gotten a bit tired of walking, I've recently started to add a bit more variety to my activities (and intensity to my occasional workouts), I have started cycling and, having watched enough Youtube videos, actually feel confident enough to give some of them a try ([Chris Heria](https://www.youtube.com/channel/UCaBqRxHEMomgFU-AkSfodCw), [Natacha Oceane](https://www.youtube.com/channel/UCjfG0dyMUiqKleUnkX6zBrA), [MadFit](https://www.youtube.com/channel/UCpQ34afVgk8cRQBjSJ1xuJQ) and [MrandMrsMuscle](https://mrandmrsmuscle.com/pages/workouts) ). I am curious to see the difficulty of my workouts, which I take a closer look at in a future post.
+Since I have gotten a bit tired of walking, I've recently started to add a bit more variety to my activities (and intensity to my occasional workouts), I have started cycling and, having watched enough Youtube videos, actually feel confident enough to give some of them a try ([Chris Heria](https://www.youtube.com/channel/UCaBqRxHEMomgFU-AkSfodCw), [Natacha Oceane](https://www.youtube.com/channel/UCjfG0dyMUiqKleUnkX6zBrA), [MadFit](https://www.youtube.com/channel/UCpQ34afVgk8cRQBjSJ1xuJQ) and [MrandMrsMuscle](https://mrandmrsmuscle.com/pages/workouts) ). I am curious to see the variations of difficulty of my workouts, which I will take a closer look at in a future post.
 
 Hopefully some of these new habits stick around after we return to some level of normalcy, but who knows, this might be the new normal for a while.  
 
@@ -53,7 +53,21 @@ So if I am spending less time moving, what am I spending more time on?
 
 Let's be real, they aren't new friends, we are just getting acquainted on a whole new level. 
 
-*summary & charts coming soon*
+*summary coming soon*
+
+
+<figure align="center">
+	<a href="/images/shelter-in-place/device_daily_rolling.png">
+    <img src="/images/shelter-in-place/device_daily_rolling.png" style="width:100% !important;"></a>
+    <figcaption>A chart of daily time spent on a device with a rolling average. </figcaption>
+</figure>
+
+<figure align="center">
+	<a href="/images/shelter-in-place/device_differences_pre_post.png">
+    <img src="/images/shelter-in-place/device_differences_pre_post.png" style="width:75% !important;"></a>
+    <figcaption>Comparison of my device usage before and after shelter-in-place.</figcaption>
+</figure>
+
 
 ## Surely I am sleeping more...
 
