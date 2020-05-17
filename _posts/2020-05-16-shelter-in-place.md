@@ -28,7 +28,7 @@ Nowadays if I get more than 6K steps, that's a good day (though that was also a 
 <figure align="center">
 	<a href="/images/shelter-in-place/active_daily_rolling.png">
     <img src="/images/shelter-in-place/active_daily_rolling.png" style="width:50% !important;"></a>
-    <figcaption>via [theweirdinstruction](https://www.reddit.com/r/dankmemes/comments/fjtg9v/hol_up/)</figcaption>
+    <figcaption>A chart of daily time spent moving with a rolling average. </figcaption>
 </figure>
 
 So how does my activity level compare to before? If I just look at time spent moving, I spent an average of 3 hours doing some sort of physical activity before, whether it was walking over to the kitchen in the office or snowboarding on the weekend. I am currently spending a little less than 2 hours moving (you can only go on so many walks, imo).
@@ -36,7 +36,7 @@ So how does my activity level compare to before? If I just look at time spent mo
 <figure align="center">
 	<a href="/images/shelter-in-place/active_differences_pre_post.png">
     <img src="/images/shelter-in-place/active_differences_pre_post.png" style="width:50% !important;"></a>
-    <figcaption>via [theweirdinstruction](https://www.reddit.com/r/dankmemes/comments/fjtg9v/hol_up/)</figcaption>
+    <figcaption>Comparison of my movement hours before and after shelter-in-place.</figcaption>
 </figure>
 
 What is interesting, though not really surprising if I think about it more, is how much variability I had before. I definitely had a handful of days where I got fewer steps in than I do now, but I would "make up for it" on the weekend (that's how exercise works, right). Perhaps I will come out of this pandemic in better shape. 
