@@ -1,7 +1,7 @@
 ---
 title: "How has my life changed since shelter-in-place (in charts)?"
 date: 2020-05-16
-tags: [Data-Diary, Visualization, covid19]
+tags: [Shelter-in-place, Data-Diary, Visualization, Covid19]
 excerpt: "I looked at 2 months of my data before the Bay Area Covid19 shelter-in-place orders and 2 months after..."
 mathjax: true
 ---
@@ -10,7 +10,7 @@ mathjax: true
 <figure align="center">
 	<a href="/images/shelter-in-place/meme_reddit_theweirdinstruction.png">
     <img src="/images/shelter-in-place/meme_reddit_theweirdinstruction.png" style="width:100% !important;"></a>
-    <figcaption><a href="https://www.reddit.com/r/dankmemes/comments/fjtg9v/hol_up/" title="theweirdinstruction">General via theweirdinstruction</a></figcaption>
+    <figcaption><a href="https://www.reddit.com/r/dankmemes/comments/fjtg9v/hol_up/" title="theweirdinstruction">via theweirdinstruction</a></figcaption>
 </figure>
 
 I am no stranger to a Netflix season binge accompanied by some takeout and perhaps a bottle of wine. Youtube and I were also quite well acquainted before the shelter-in-place went into effect. I am familiar with the illusion of the short 5 minute video and how easily it turns into just 5 more minutes and before you know it, it's been 45 minutes. 
@@ -33,13 +33,15 @@ Nowadays if I get more than 6K steps, that's a good day (though that was also a 
 
 So how does my activity level compare to before? If I just look at time spent moving, I spent an average of 3 hours doing some sort of physical activity before, whether it was walking over to the kitchen in the office or snowboarding on the weekend. I am currently spending a little less than 2 hours moving (you can only go on so many walks, imo).
 
+Just eyeballing the chart below, the two density plots don't look all *that* different, sadly. And if we want to get technical, they actually aren't (running a Welch's t-test on the data shows up that there was no real difference in time spent moving).
+
 <figure align="center">
 	<a href="/images/shelter-in-place/active_differences_pre_post.png">
     <img src="/images/shelter-in-place/active_differences_pre_post.png" style="width:75% !important;"></a>
     <figcaption>Comparison of my active hours before and after shelter-in-place.</figcaption>
 </figure>
 
-What is interesting, though not really surprising if I think about it more, is how much variability I had before. I definitely had a handful of days where I got fewer steps in than I do now, but I would "make up for it" on the weekend (that's how exercise works, right). Ultimately, those "make up" days, at least time wise (not accounting for intensity), didn't really make up for the other days. Running a Welch's t-test on the data shows up that there was no real difference in time spent moving.
+What is interesting, though not really surprising if I think about it more, is how much variability I had before. I definitely had a handful of days where I got fewer steps in than I do now, but I would "make up for it" on the weekend (that's how exercise works, right). Ultimately, those "make up" days, at least time wise (not accounting for intensity), didn't really make up for the other days. 
 
 To add a bit more variety (and intensity to my occasional workouts), I have started cycling and, having watched enough Youtube videos, actually feel confident enough to give some of them a try ([Chris Heria](https://www.youtube.com/channel/UCaBqRxHEMomgFU-AkSfodCw), [Natacha Oceane](https://www.youtube.com/channel/UCjfG0dyMUiqKleUnkX6zBrA), [MadFit](https://www.youtube.com/channel/UCpQ34afVgk8cRQBjSJ1xuJQ) and [MrandMrsMuscle](https://mrandmrsmuscle.com/pages/workouts) ).
 
