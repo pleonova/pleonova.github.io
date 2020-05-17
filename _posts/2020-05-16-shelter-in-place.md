@@ -35,7 +35,7 @@ So how does my activity level compare to before? If I just look at time spent mo
 
 <figure align="center">
 	<a href="/images/shelter-in-place/active_differences_pre_post.png">
-    <img src="/images/shelter-in-place/active_differences_pre_post.png" style="width:50% !important;"></a>
+    <img src="/images/shelter-in-place/active_differences_pre_post.png" style="width:25% !important;"></a>
     <figcaption>Comparison of my movement hours before and after shelter-in-place.</figcaption>
 </figure>
 
