@@ -51,8 +51,10 @@ So if I am spending less time moving, what am I spending more time on?
 
 Let's be real, they aren't new friends, we are just getting acquainted on a whole new level. 
 
+[summary & charts coming soon]
 
 ## Surely I am sleeping more...
 
+[summary & charts coming soon]
 
 
