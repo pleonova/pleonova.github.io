@@ -12,7 +12,7 @@ excerpt: 'A collection of my data projects.'
 feature_row:
   - image_path: /images/display-stat-flow-chart-border.jpg
     alt: "stat-flow-chart"
-    title: "Statistical Test Flow Chart"
+    title: "Statistical Test Selection Flow Chart"
     excerpt: "A flow chart to help you select the right statistical tests for evaluating your experiments."
     url: "https://github.com/pleonova/stat-tests"
     btn_class: "btn--primary"
