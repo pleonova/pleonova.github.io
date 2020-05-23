@@ -10,7 +10,7 @@ header:
   caption:
 excerpt: 'A collection of my data projects.'
 feature_row:
-  - image_path: /images/display-stat-flow-chart-border.jpg.jpg
+  - image_path: /images/display-stat-flow-chart-border.jpg
     alt: "stat-flow-chart"
     title: "Statistical Test Flow Chart"
     excerpt: "A flow chart to help you select the right statistical tests for evaluating your experiments."
