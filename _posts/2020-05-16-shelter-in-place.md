@@ -43,9 +43,9 @@ Just eyeballing the chart below, the two density plots don't look all *that* dif
 
 What is interesting, though not really surprising if I think about it more, is how much variability I had before. I definitely had a handful of days where I got fewer steps in than I do now, but I would "make up for it" on the weekend (that's how exercise works, right). Ultimately, those "make up" days, at least time wise (not accounting for intensity), did result in moving the average up. I had enough of those days to offset the low activity days. 
 
-Since I have gotten a bit tired of walking, I've recently started to add a bit more variety to my activities (and intensity to my occasional workouts), I have started cycling and, having watched enough Youtube videos, actually feel confident enough to give some of them a try (my recommendations [Chris Heria](https://www.youtube.com/channel/UCaBqRxHEMomgFU-AkSfodCw), [Natacha Oceane](https://www.youtube.com/channel/UCjfG0dyMUiqKleUnkX6zBrA), [MadFit](https://www.youtube.com/channel/UCpQ34afVgk8cRQBjSJ1xuJQ) and [MrandMrsMuscle](https://mrandmrsmuscle.com/pages/workouts) ). I am curious to see the **variations of difficulty** of my workouts, which I will take a closer look at in a future post.
+Since I have gotten a bit tired of walking, I've recently started to add a bit more variety to my activities (and intensity to my occasional workouts), I have started cycling and, having watched enough Youtube videos, actually feel confident enough to give some of them a try (my recommendations [Chris Heria](https://www.youtube.com/channel/UCaBqRxHEMomgFU-AkSfodCw), [Natacha Oceane](https://www.youtube.com/channel/UCjfG0dyMUiqKleUnkX6zBrA), [MadFit](https://www.youtube.com/channel/UCpQ34afVgk8cRQBjSJ1xuJQ) and [MrandMrsMuscle](https://mrandmrsmuscle.com/pages/workouts) ). I am curious to see the variations of difficulty of my workouts, which I will take a closer look at in a future post.
 
-Hopefully some of these **newer** habits stick around after we return to some level of normalcy, but who knows, this might be the new normal for a while.  
+Hopefully some of these newer habits stick around after we return to some level of normalcy, but who knows, this might be the new normal for a while.  
 
 So if I am spending less time moving, what am I spending more time on?
 
