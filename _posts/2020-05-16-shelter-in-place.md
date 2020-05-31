@@ -65,7 +65,7 @@ I am surprised that I previously had several days where I spent even more time o
 
 I've definitely spent a lot of time obsessing over the news, whether it was following along what was happening in Wuhan on Twitter back in January when it all first started or the hourly updates as the shelters started to take place to now as parts of the country start to re-open.
 
-Youtube, HBo and Netflix have been my escape. I watched so much stand up comedy (I feel like I owe a special thank you to the following comedians: Sam Morril, Mae Martin, Josh Johnson, Emily Heller, Jim Gaffigan, Taylor Tomlinson, Rachel Mac), finished a handful of shows (Westworld, Unorthodox, Feel Good to name a few) and started watching youtube videos of tiny homes (I find them theraputic and love seeing how different people design essentially the same tiny space).
+Youtube, HBO and Netflix have been my escape. I watched so much stand up comedy (I feel like I owe a special thank you to the following comedians: Sam Morril, Mae Martin, Josh Johnson, Emily Heller, Jim Gaffigan, Taylor Tomlinson, Rachel Mac), finished a handful of shows (Westworld, Unorthodox, Feel Good to name a few) and started watching youtube videos of tiny homes (I find them theraputic and love seeing how different people design essentially the same tiny space).
 
 I have been able to complete an online course in this time (here's my final project: [A statistical flow chart](https://github.com/pleonova/stat-tests)) and will cleanup and publish the python code used to generate these charts. 
 
@@ -116,7 +116,7 @@ To nobody's surprise, life right now is very different than it was before. How d
 - Dinners and board game evenings with friends have turned into zoom hangouts and sessions on Tabletopia.
 - Instead of trips over the weekend, we stay in and work.
 - An occasional body pump class at the local 24 hour fitness is now substituted by an occasional Youtube fitness workout.
-- Snowbaording was cut short and swimming pools are not an option so I am trying cycling now.
+- Snowboarding was cut short and swimming pools are not an option so I am trying cycling now.
 - Insomnia caused by inconsistent bedtimes and anxiety is replaced with insomnia caused by inconsistent bedtimes and other types of anxiety.
 - Visits to friends apartments replaced with walks around our neighborhood and perhaps a balcony conversation with the friends nearby.
 - Date nights out are now date nights in (watching Westworld or playing a round of Brass Birmingham or 7 Wonders Duel).
