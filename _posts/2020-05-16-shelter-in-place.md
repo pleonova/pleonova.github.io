@@ -130,7 +130,7 @@ Despite all the changes, I feel extremely fortunate that my family is healthy (k
 <figure align="center">
 	<a href="/images/shelter-in-place/daily.png">
     <img src="/images/shelter-in-place/daily.png" style="width:75% !important;"></a>
-    <figcaption>My daily sleep, screen time and exercise.</figcaption>
+    <figcaption>My daily record of sleep, screen time and exercise.</figcaption>
 </figure>
 
 ## Why write all this?
