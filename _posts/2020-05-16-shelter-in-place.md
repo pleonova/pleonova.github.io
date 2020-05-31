@@ -87,8 +87,8 @@ This chart, just like the first chart on exercerise, just emphasizes how little 
 The sad reality is that despite being within a 5 second walk of my bed at almost any given moment, I am not sleeping any more than I was before. 
 
 <figure align="center">
-	<a href="/images/shelter-in-place/device_daily_rolling.png">
-    <img src="/images/shelter-in-place/device_daily_rolling.png" style="width:100% !important;"></a>
+	<a href="/images/shelter-in-place/sleep_daily_rolling.png">
+    <img src="/images/shelter-in-place/sleep_daily_rolling.png" style="width:100% !important;"></a>
     <figcaption>A chart of daily time spent on a device with a rolling average. </figcaption>
 </figure>
 
