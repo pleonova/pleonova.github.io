@@ -67,7 +67,7 @@ I've definitely spent a lot of time obsessing over the news, whether it was foll
 
 Youtube, HBO and Netflix have been my escape. I watched so much stand up comedy (I feel like I owe a special thank you to the following comedians: Sam Morril, Mae Martin, Josh Johnson, Emily Heller, Jim Gaffigan, Taylor Tomlinson, Rachel Mac), finished a handful of shows (Westworld, Unorthodox, Feel Good to name a few) and started watching youtube videos of tiny homes (I find them theraputic and love seeing how different people design essentially the same tiny space).
 
-I have been able to complete an online course in this time (here's my final project: [A statistical flow chart](https://github.com/pleonova/stat-tests)) and will cleanup and publish the python code used to generate these charts. 
+I have been able to complete an online course in this time (here's my final project: [A statistical flow chart](https://github.com/pleonova/stat-tests)) and wrap up the first phase of a [semi-automated self tracking project](https://github.com/pleonova/data-diary) used to [generate the charts for this post](https://github.com/pleonova/data-diary/blob/master/pre_post_shelter_in_place.ipynb).  
 
 Since my day job entails a lot of computer time, I picked up an old textbook, old being a relative term, on TensorFlow just so I can get a break from my screen.
 
