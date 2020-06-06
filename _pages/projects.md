@@ -12,7 +12,7 @@ excerpt: 'A collection of my data projects.'
 feature_row:
   - image_path: /images/display-data-diary-border.jpg
     alt: "data-diary"
-    title: "My Data Diary<br /><br />"
+    title: "My Data Diary<br />Dashboard"
     excerpt: "A more objective way of journaling with the help of automatic data tracking and visualization."
     url: "https://github.com/pleonova/data-diary"
     btn_class: "btn--primary"
