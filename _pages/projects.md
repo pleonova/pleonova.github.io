@@ -10,6 +10,13 @@ header:
   caption:
 excerpt: 'A collection of my data projects.'
 feature_row:
+  - image_path: /images/display-data-diary-border.jpg
+    alt: "data-diary"
+    title: "My Data Diary<br /><br />"
+    excerpt: "A more objective way of journaling with the help of automatic data tracking and visualization."
+    url: "https://github.com/pleonova/data-diary"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
   - image_path: /images/display-stat-flow-chart-border.jpg
     alt: "stat-flow-chart"
     title: "Statistical Test Selection Flow Chart"
