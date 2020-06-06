@@ -11,6 +11,7 @@ Around the time I graduated, MOOCs were just taking off (MOOCs - Massive Open On
 Though I've only scratched the tip of the iceberg, below are some of the resources I have found useful as either refreshers or for learning the latest technologies, the ones with the asterisks are the ones I would highly recommend.  
 
 ## Completed Online Courses
+- Stanford: **Statistics in Medicine III** *
 - Udacity: **Programming Foundations with Python**
 - Data School: **Machine Learning with Text in Python** *
 - Udacity: **Intro to Inferential Statistics** *
@@ -28,7 +29,7 @@ Though I've only scratched the tip of the iceberg, below are some of the resourc
 - Coursera: **Johns Hopkins Computing for Data Analysis** 
 
 ## Books
-- **Hands-On Machine Learning with Scikit-Learn and TensorFlow** Géron, Aurélien [20%]
+- **Hands-On Machine Learning with Scikit-Learn and TensorFlow** Géron, Aurélien [60%]
 - **Applied Predictive Modeling** by Kuhn, Max, Johnson, Kjell [20%]
 - **Interactive Data Visualization for the Web: An Introduction for Designing with D3** Murray, Scott [40%]
 - **Natural Language Processing with Python** by Bird, Steven, Klein, Ewan, Loper, Edward, Brand  [33%]
