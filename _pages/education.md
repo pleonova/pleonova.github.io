@@ -26,6 +26,7 @@ Though I've only scratched the tip of the iceberg, below are some of the resourc
 - Udemy: **Ultimate Guide to Funnel Optimization** 
 - Udemy: **SQL Database for Beginners** 
 - Coursera: **Stanford's Machine Learning** *
+  with Andrew Ng
 - Coursera: **Johns Hopkins Data Analysis** 
 - Coursera: **Johns Hopkins Computing for Data Analysis** 
 
