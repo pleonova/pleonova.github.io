@@ -5,11 +5,11 @@ header:
   #image: "/images/rock-colors-small.jpg"
 ---
 
-I have 7 years of industry experience in the analytics space, spanning a wide variety of sectors from hardware to education. I've worked at both big companies such as Google and Shutterfly as well as small startups in healthcare and education. I first got interested in Data Science through my economics coursework and research at UC Berkeley.
+I have 7 years of industry experience in the analytics space, spanning a wide variety of sectors from hardware to education. I've worked at both big companies such as Google and Shutterfly as well as small startups in healthcare and education. My interest in data science actually started way back during my economics coursework and research at UC Berkeley.
 
 In order to stay up to date on the constantly evolving field, I regularly read articles, take online courses and occasionally even read through a textbook, the old fashioned way (if you want to learn about some my favorite resources, feel free to click the [Education](https://pleonova.github.io/education/) section).
 
-I most enjoy creating tools that others can re-use or learn from, whether that is for personal tracking ([Data Diary Project](https://github.com/pleonova/data-diary)) or experimentation ([Choosing the correct hypothesis test](https://github.com/pleonova/stat-tests) and [A/B Testing Templates](https://github.com/pleonova/ab-testing)).  I've also given talks about visualizing data ([Tableau How To](https://pleonova.github.io/visualization-tableau/) and held internal company training seminars on SQL. 
+I most enjoy creating tools that others can re-use or learn from, whether that is for personal tracking ([Data Diary Project](https://github.com/pleonova/data-diary)) or experimentation ([Choosing the correct hypothesis test](https://github.com/pleonova/stat-tests) and [A/B Testing Templates](https://github.com/pleonova/ab-testing)).  I've also given talks about visualizing data ([Tableau How To](https://pleonova.github.io/visualization-tableau/)) and held internal company training seminars on SQL. 
 
 
 ## My Timeline
