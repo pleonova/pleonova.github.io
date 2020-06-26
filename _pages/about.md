@@ -16,7 +16,7 @@ I most enjoy creating tools that others can re-use or learn from, whether that i
  
 <img src="{{ site.url }}{{ site.baseurl }}/images/my-background4.JPG" alt="">
 
-## Tools
+## Toolbox
 
 I started my career in Stata and R and transitioned to Python. I frequently use both the python visualization libraries (`matplotlib` and `seaborn`) as well as statistical/machine learning packages (`scikit-learn` and `statsmodel`). Furthemore, I've written a handful of statistical functions and visualizations for evaluating online experiments in Python. In addition to exploring data and creating models in Python and R, I am also familiar with various business intelligence tools such as Looker, Tableau and Chartio and have created dozens of dashboards. 
 

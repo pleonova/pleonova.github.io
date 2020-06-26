@@ -20,6 +20,7 @@ Though I've only scratched the tip of the iceberg, below are some of the resourc
 - Udacity: **A/B Testing**
 - Udacity: **How to Use Git and Github** 
 - Stanford Online: **SQL** *
+  with Jennifer Widom
 - Udemy: **Javascript - Understanding the Weird Parts**  [40%]
 - Edx: **Supply Chain and Logistics Fundamentals**  [30%]
 - Codeacademy: **How to use APIs with Python** 
