@@ -14,6 +14,7 @@ Though I've only scratched the tip of the iceberg, below are some of the resourc
 - Stanford: **Statistics in Medicine III** * <br />
   with Kristin Sainani
 - Udacity: **Programming Foundations with Python**
+  with Kunal Chawla
 - Data School: **Machine Learning with Text in Python** *
 - Udacity: **Intro to Inferential Statistics** *
 - Udacity: **Intro to Descriptive Statistics** 
