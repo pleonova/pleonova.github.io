@@ -7,8 +7,6 @@ mathjax: true
 ---
 
 ## A bit of context
-This isn't my first rodeo, as in I had several blogs before this one, remember Xanga? Before making my own on github, I had, you guessed it, Wordpress. So this is a repost from my Wordpress account that, in my opinion, still holds water, though I can't say the same about Xanga (not that I can even find my old credentials). 
-
 I wanted to share something that I hope one day I can revisit. This was an idea I pitched at a startup weekend that I and several other amazing folks actually ended up working on for a little bit. 
 
 
@@ -24,3 +22,5 @@ I want to create a tool that tracks people’s learning pathways AND an online p
 Not only would they be able to see how others have learned before them and what websites and tools they found useful, but they could also find fellow learners on the same learning path or reach out to those who are further along in their progress (path).
 
 The more this tool/platform gets used, the better it becomes, just like how the paths in the marked forest become clearer as more travelers go through.
+
+[Teaser](https://kevinhuang9.wixsite.com/learningforest)
