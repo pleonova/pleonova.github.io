@@ -23,4 +23,4 @@ Not only would they be able to see how others have learned before them and what 
 
 The more this tool/platform gets used, the better it becomes, just like how the paths in the marked forest become clearer as more travelers go through.
 
-[Teaser](https://kevinhuang9.wixsite.com/learningforest)
+[*Teaser*](https://kevinhuang9.wixsite.com/learningforest)
