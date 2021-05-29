@@ -5,7 +5,7 @@ header:
   #image: "/images/rock-colors-small.jpg"
 ---
 
-I have 7 years of industry experience in the analytics space, spanning a wide variety of sectors from hardware to education. I've worked at both big companies such as Google and Shutterfly as well as small startups in healthcare and education. My interest in data science actually started way back during my economics coursework and research at UC Berkeley.
+I have over 7 years of industry experience in the data science and analytics space, spanning a wide variety of sectors from hardware to education, specializing in user optimization, experimentation and machine learning. I have experience working at both big tech companies such as Google, Shutterfly and Discovery Education as well as small startups in healthcare and education. My interest in data science actually started way back during my economics coursework and research at UC Berkeley.
 
 In order to stay up to date on the constantly evolving field, I regularly read articles, take online courses and occasionally even read through a textbook, the old fashioned way (if you want to learn about some my favorite resources, feel free to click the [Education](https://pleonova.github.io/education/) section).
 
@@ -18,8 +18,8 @@ I most enjoy creating tools that others can re-use or learn from, whether that i
 
 ## Toolbox
 
-I started my career in Stata and R and transitioned to Python. I frequently use both the python visualization libraries (`matplotlib` and `seaborn`) as well as statistical/machine learning packages (`scikit-learn` and `statsmodel`). Furthemore, I've written a handful of statistical functions and visualizations for evaluating online experiments in Python. In addition to exploring data and creating models in Python and R, I am also familiar with various business intelligence tools such as Looker, Tableau and Chartio and have created dozens of dashboards. 
+I started my career in Stata and R and transitioned to Python. I frequently use both the python visualization libraries (`matplotlib` and `seaborn`) as well as statistical/machine learning packages (`scikit-learn` and `statsmodel`). Furthemore, I've written a handful of statistical functions and visualizations for evaluating online experiments in Python. In addition to exploring data and creating models in Python, I am also familiar with various business intelligence tools such as Looker, Tableau and Chartio. 
 
 <br /><br />
 ## Other Interests
-When I am not working on my data side projects, I like to get outdoors whether that be up to the snow covered mountains in Tahoe for a snowboarding adventure or to the nearest green field for a game of pick up Ultimate Frisbee. I also enjoy woodworking, board games and photography (feel free to checkout out [my photography website](http://girlandcamera.wixsite.com/novaphotography)).
+When I am not working on my data side projects, I like to get outdoors whether that be up to the mountains in the winter for some snowboarding or the nearest park in the summer for some Ultimate Frisbee. I also enjoy [woodworking](https://www.instructables.com/My-First-Piece-of-Furniture-a-Bar-Cart/), [photography](http://girlandcamera.wixsite.com/novaphotography) and engine building and eurostyle tabletop games (such as Terra Mystica and Brass: Birmingham).
