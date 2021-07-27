@@ -2,7 +2,7 @@
 title: "My MLOps Journey - Getting Started"
 date: 2021-06-24
 tags: [MLOps, Deeplearning.ai, Machine Learning]
-excerpt: "How I approached learning MLOps and what resources I started with."
+excerpt: "How I am approaching learning MLOps and what resources I started with."
 mathjax: true
 ---
 
@@ -32,8 +32,8 @@ Once I get a few practical examples under my belt and am aware of a couple of di
 This is the most important step and where a lot of learning takes place. It’s also the hardest, but the most rewarding, if you keep at it. Getting practical hands-on experience is key and overcoming the hurdles that you will inevitably encounter will make you a better data scientist as those are the types of problems you’ll face on a day to day. 
 
 ## List of MLOps resources in this blogpost:
-[Andrew Ng: Deeplearning.ai’s Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production?specialization=machine-learning-engineering-for-production-mlops)
-[Mike Nemke: Rapidly build & deploy an NLP / Machine Learning App with Poetry, FastAPI, Docker, Spacy & GCP](https://www.youtube.com/watch?v=Maj9v-Ev7-4)
-[Goku Mohandas: Made with ML - MLOps course](www.madewithml.com)
+- [Andrew Ng: Deeplearning.ai’s Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production?specialization=machine-learning-engineering-for-production-mlops)
+- [Mike Nemke: Rapidly build & deploy an NLP / Machine Learning App with Poetry, FastAPI, Docker, Spacy & GCP](https://www.youtube.com/watch?v=Maj9v-Ev7-4)
+- [Goku Mohandas: Made with ML - MLOps course](www.madewithml.com)
 
 Also, if there are any resources you have found invaluable in your journey, I would love to hear about them!
