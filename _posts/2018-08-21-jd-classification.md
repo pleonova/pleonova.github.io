@@ -7,15 +7,15 @@ mathjax: true
 ---
 
 ## Motivation
-Being a data practioner, I often get asked the question *What is the difference between a Data Scientist and a Data Analyst?* Though I usually answer this question empirically, I decided to take a data-driven approach and build a model to more systemtically identify the distinction between these two roles. 
+Being a data practitioner, I often get asked the question *What is the difference between a Data Scientist and a Data Analyst?* Though I usually answer this question empirically, I decided to take a data-driven approach and build a model to more systematically identify the distinction between these two roles. 
 
 ## Process
 What I ended up doing was collecting job descriptions for Data Scientist and Data Analyst roles posted by the big tech companies in Silicon Valley on job boards and training a model on a subset to see if I could accurately predict the remaining titles from just the job descriptions. 
 
-For a more indepth explanation of the process and accompanying code for this project, please see my [my github repo](https://github.com/pleonova/jd-classifier).
+For a more in depth explanation of the process and accompanying code for this project, please see my [my github repo](https://github.com/pleonova/jd-classifier).
 
 ## Results
-I ended up training a Multinomial Naives Bayes model to predict the job titles. My final Multinomial Naives Bayes model had an **ROC AUC of 88%**. Unsurprisingly, the top key words/phrases for Data Scientist were: *machine learning*, *models*, *algorithms* while that for Data Analysts were: *reports*, *dashboards*, and *excel*. 
+I ended up training a Multinomial Naive Bayes model to predict the job titles. My final Multinomial Naive Bayes model had an **ROC AUC of 88%**. Unsurprisingly, the top key words/phrases for Data Scientist were: *machine learning*, *models*, *algorithms* while that for Data Analysts were: *reports*, *dashboards*, and *excel*. 
 
 ## Takeaways
 **Examining the results that my model classified incorrectly actually gives insight into employers and their expectations.**
