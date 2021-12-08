@@ -12,7 +12,7 @@ excerpt: 'A collection of my data projects.'
 feature_row:
   - image_path: /images/display-hf-multi-label-border.jpg
     alt: "hf-label"
-    title: "Text Summarization & Multiple Label Classification"
+    title: "NLP Summarizer & Multi-Label Classifier"
     excerpt: "This app uses huggingface zero-shot transfer learning to summarize and classify long text."
     url: "https://huggingface.co/spaces/pleonova/multi-label-summary-text"
     btn_class: "btn--primary"
