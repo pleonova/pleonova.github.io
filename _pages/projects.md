@@ -10,6 +10,13 @@ header:
   caption:
 excerpt: 'A collection of my data projects.'
 feature_row:
+  - image_path: /images/display-hf-multi-label-border.jpg
+    alt: "hf-label"
+    title: "Text Summarization & Multiple Label Classification"
+    excerpt: "An app that uses huggingface zero-shot learning to summarize and classify long text."
+    url: "https://github.com/pleonova/multi-label-long-text"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
   - image_path: /images/display-data-diary-border.jpg
     alt: "data-diary"
     title: "My Data Diary<br />Dashboard"
