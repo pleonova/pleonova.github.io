@@ -14,7 +14,7 @@ feature_row:
     alt: "hf-label"
     title: "NLP Summarizer & Multi-Label Classifier"
     excerpt: "This app uses huggingface zero-shot transfer learning to summarize and classify long text."
-    url: "https://huggingface.co/spaces/pleonova/multi-label-summary-text"
+    url: "https://github.com/pleonova/multi-label-summary-text"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /images/display-data-diary-border.jpg
