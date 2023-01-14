@@ -56,19 +56,9 @@ This perhaps is the most interesting question and would be fascinating to curate
 
 Aside from the X hours I spent on the course website, I spent nearly as much time on Miro.com completing my independent project. I built [this flow chart](https://github.com/pleonova/stat-tests) as both a way to solidify the concepts I learned as well as to hopefully serve as a resource for others who might find themselves deciding which statistical test applies to their data.
 
-Aside from these two, I visited Y number of other websites, of which the following are the ones where I spent the most time on. More time does not equal better, but I do think there is a strong correlation. If I didn’t find it useful, I would have pretty quickly decided that it wasn’t addressing my questions. A handful of resources I returned to multiple times...
-
 
 # Takeaways
 
 I don’t need to give up my weekends in order to take an online course! If I just spend 1.5 hours during weekdays, I can get through the same amount of material. Having a 100% of days where I study will just lead to burnout when I want to make this a regular habit.
 
 A pretty obvious tip, but worth saying anyway: Try to gain a good overview of the basics as soon as possible in order to get started with the assignment/personal project as that is where much of the learning happens. Though this is something I already knew, I feel like if I can more quickly go through the material just to get my bearings, then I can dive in sooner into a project and know where I can go in order to gain a better understanding of the concepts. 
-
-
-
-
-
-
-
-
