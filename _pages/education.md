@@ -10,6 +10,15 @@ Around the time I graduated, MOOCs were just taking off (MOOCs - Massive Open On
 
 Though I've only scratched the tip of the iceberg, below are some of the resources I have found useful as either refreshers or for learning the latest technologies, the ones with the asterisks are the ones I would highly recommend.  
 
+
+
+
+Traditional degree with almost 10 years of continued education (online courses, textbooks, blogs and papers).
+
+
+
+
+
 ## Completed Online Courses
 - Stanford: **Statistics in Medicine III** * <br />
   with Kristin Sainani
