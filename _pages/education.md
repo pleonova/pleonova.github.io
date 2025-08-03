@@ -2,48 +2,20 @@
 title: "Education"
 permalink: /education/
 header:
+  overlay_color: "#ffffff"
   #image: "/images/rock-colors-small.jpg"
 ---
-For those wondering, my traditional education was at UC Berkeley, where I got my bachelors in Economics. During my time there, I assisted several professors with their research and discovered my interest in uncovering patterns from a sea of data, what we today call Data Science, though that term wasn't coined yet at the time. 
 
-Around the time I graduated, MOOCs were just taking off (MOOCs - Massive Open Online Courses). I soon enrolled in Coursera's  quintessential Machine Learning course and was hooked. 
+## Academic Background
 
-Though I've only scratched the tip of the iceberg, below are some of the resources I have found useful as either refreshers or for learning the latest technologies, the ones with the asterisks are the ones I would highly recommend.  
+I earned my Bachelor's degree in **Economics** from the **University of California, Berkeley**, where I developed a strong foundation in analytical thinking and quantitative methods. During my undergraduate years, I had the privilege of assisting several professors with their research projects, which sparked my passion for uncovering meaningful patterns within complex datasets.
 
-## Completed Online Courses
-- Stanford: **Statistics in Medicine III** * <br />
-  with Kristin Sainani
-- Udacity: **Programming Foundations with Python**
-  with Kunal Chawla
-- Data School: **Machine Learning with Text in Python** *
-- Udacity: **Intro to Inferential Statistics** *
-- Udacity: **Intro to Descriptive Statistics** 
-- Udacity: **A/B Testing**
-- Udacity: **How to Use Git and Github** 
-- Stanford Online: **SQL** *
-  with Jennifer Widom
-- Udemy: **Javascript - Understanding the Weird Parts**  [40%]
-- Edx: **Supply Chain and Logistics Fundamentals**  [30%]
-- Codeacademy: **How to use APIs with Python** 
-- Udemy: **Ultimate Guide to Funnel Optimization** 
-- Udemy: **SQL Database for Beginners** 
-- Coursera: **Stanford's Machine Learning** *
-  with Andrew Ng
-- Coursera: **Johns Hopkins Data Analysis** 
-- Coursera: **Johns Hopkins Computing for Data Analysis** 
+Though the term "Data Science" hadn't been coined yet, my research experiences at Berkeley laid the groundwork for what would become my career focus. Working alongside faculty members taught me the importance of rigorous methodology, critical thinking, and the art of translating complex findings into actionable insights.
 
-## Books
-- **Hands-On Machine Learning with Scikit-Learn and TensorFlow** Géron, Aurélien [60%]
-- **Applied Predictive Modeling** by Kuhn, Max, Johnson, Kjell [20%]
-- **Interactive Data Visualization for the Web: An Introduction for Designing with D3** Murray, Scott [40%]
-- **Natural Language Processing with Python** by Bird, Steven, Klein, Ewan, Loper, Edward, Brand  [33%]
-- **Introduction to Statistical Learning** * by James, Witten, Hastie, Tibshirani
-- **Discovering Statistics** * by Field, Miles, Field [60%]
+## Continuous Learning Journey
 
-<br /><br />
+My educational journey didn't end with my formal degree. Around the time I graduated, **Massive Open Online Courses (MOOCs)** were revolutionizing how people access quality education. I quickly embraced this new learning paradigm and enrolled in Coursera's foundational Machine Learning course taught by Andrew Ng—a decision that would fundamentally shape my career trajectory.
 
-## Current Non-Technical Book Favorites
-- **Dear Data** by Giorgia Lupi & Stefanie Posavec
-- **Tuesdays with Morrie: An Old Man, A Young Man, and Life's Greatest Lesson** by Mitch Albom
-- **Troublemakers: Silicon Valley's Coming of Age** by Leslie Berlin
+Since then, I've maintained a commitment to lifelong learning, continuously updating my skills through online courses, technical books, and hands-on projects. This approach has allowed me to stay current with rapidly evolving technologies and methodologies in data science and machine learning.
+
 

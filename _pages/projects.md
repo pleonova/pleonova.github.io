@@ -2,19 +2,34 @@
 layout: splash
 title: "Projects"
 permalink: /projects/
+classes: projects-page
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#ffffff"
   overlay_image: #/assets/images/mm-home-page-feature.jpg
   cta_label: #"<i class='fas fa-download'></i> Install Now"
   cta_url: #"/docs/quick-start-guide/"
   caption:
-excerpt: 'A collection of my data projects.'
+excerpt: 'Exploring the intersection of data science, artificial intelligence, and user experience through practical applications.'
 feature_row:
+  - image_path: /images/display-chrome-app.jpg
+    alt: "LLM Chrome Extension"
+    title: "On-Device LLM Chrome Extension"
+    excerpt: "A Chrome extension that uses AI to categorize and organize web pages using on-device Gemini Nano or Hugging Face models."
+    url: "https://github.com/pleonova/llm-chrome-extension/tree/main"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+  - image_path: /images/display-edu-skills.jpg
+    alt: "Educational Skills Tagging"
+    title: "Automated Educational Skills Tagging"
+    excerpt: "An AI-powered pipeline that analyzes educational text to identify optimal learning intervention points by mapping content to specific skills and competencies."
+    url: "https://github.com/pleonova/edu-skills-tagging"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
   - image_path: /images/display-hf-multi-label-border.jpg
     alt: "hf-label"
-    title: "NLP Summarizer & Multi-Label Classifier"
-    excerpt: "This app uses huggingface zero-shot transfer learning to summarize and classify long text."
-    url: "https://github.com/pleonova/multi-label-summary-text"
+    title: "NLP Hugging Face Space"
+    excerpt: "This app uses huggingface BART zero-shot transfer learning to summarize and KeyBERT to classify long text."
+    url: "https://huggingface.co/spaces/pleonova/multi-label-summary-text"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /images/display-data-diary-border.jpg

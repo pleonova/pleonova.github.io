@@ -101,9 +101,9 @@ analytics:
 # Site Author
 author:
   name             : "Paula Leonova"
-  avatar           : "/images/bio-photo.jpg"
-  bio              : "Data Scientist"
-  location         : "Mountain View, CA"
+  avatar           : "/images/bio-photo-2.jpg"
+  bio              : "AI Engineer"
+  location         : "Bay Area, CA"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
