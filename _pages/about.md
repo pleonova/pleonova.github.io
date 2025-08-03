@@ -36,7 +36,7 @@ I've developed reusable frameworks for A/B testing, statistical test selection, 
 <img src="{{ site.url }}{{ site.baseurl }}/images/my-background5.JPG" alt="">
 
 <br /><br />
-## Beyond Data Science
+## Beyond Engineering & Data Science
 
 When I'm not building AI systems or analyzing data, you'll find me outdoors - snowboarding in the mountains during winter or playing Ultimate Frisbee in the park during summer. I'm also passionate about [woodworking](https://www.instructables.com/My-First-Piece-of-Furniture-a-Bar-Cart/), [photography](http://girlandcamera.wixsite.com/novaphotography), and enjoy strategic board games like Terra Mystica and Brass: Birmingham.
 
