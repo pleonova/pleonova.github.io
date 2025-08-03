@@ -75,6 +75,11 @@ a {
   color: #ffffff !important;
 }
 
+/* Reduce banner height */
+.page__hero--overlay {
+  padding: 0.5em 0 !important;
+}
+
 /* Remove text shadows and make fonts simpler without dimension */
 .page__title,
 .page__meta,
