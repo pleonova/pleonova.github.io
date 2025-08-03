@@ -53,6 +53,13 @@ feature_row:
     url: "/visualization-tableau/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
+  - image_path: /images/display-chrome-app.jpg
+    alt: "LLM Chrome Extension"
+    title: "LLM Chrome Extension"
+    excerpt: "A Chrome extension that uses AI to categorize and organize web pages using on-device Gemini Nano or Hugging Face models."
+    url: "https://github.com/pleonova/llm-chrome-extension/tree/main"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 
