@@ -16,12 +16,6 @@ As a **Senior Applied AI Engineer**, I specialize in building production-ready A
 
 Previously as a **Senior Data Scientist, AI** (recognized with the Employee Innovation Spotlight Award in 2023), I led company-wide LLM implementation and served as the sole NLP expert. I deployed multi-page applications on AWS ECS for human-in-the-loop learning platforms and implemented agentic workflows using ChatGPT and Llama2 with advanced prompt engineering and chaining techniques.
 
-My expertise includes:
-- **LLM Evaluation & RAG Systems**: Custom evaluation pipelines for chained workflows, ElasticSearch RAG, and LLM-as-a-Judge frameworks
-- **AWS Cloud Architecture**: ECS, Sagemaker, Lambda, API Gateway, S3, DynamoDB, Hugging Face Deep Learning Containers
-- **Knowledge Graphs**: Neo4j implementation with 2B+ nodes for enhanced AI data retrieval and visualization
-- **Model Fine-tuning**: SBERT and BART ensemble models for educational standards alignment
-- **Multi-label Classification**: Custom evaluation frameworks using SetFit and transformer models
 
 ## Technology Stack
 
