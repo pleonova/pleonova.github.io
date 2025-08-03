@@ -60,4 +60,31 @@ a {
 
 .btn--linkedin {
   color: #ffffff !important;
+}
+
+/* Remove text shadows and make fonts simpler without dimension */
+.page__title,
+.page__meta,
+.page__lead,
+.btn,
+h1, h2, h3, h4, h5, h6,
+p,
+body,
+.page__content,
+.excerpt {
+  text-shadow: none !important;
+  font-weight: normal !important;
+  letter-spacing: normal !important;
+  text-transform: none !important;
+}
+
+/* Specifically target splash page elements */
+.splash .page__title,
+.splash .page__meta,
+.splash .page__lead,
+.splash .btn {
+  text-shadow: none !important;
+  font-weight: normal !important;
+  letter-spacing: normal !important;
+  text-transform: none !important;
 } 
