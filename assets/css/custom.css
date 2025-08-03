@@ -51,4 +51,13 @@ a {
 
 .muted-text-color {
   color: #000000 !important;
+}
+
+/* Make GitHub and LinkedIn button text white */
+.btn--primary {
+  color: #ffffff !important;
+}
+
+.btn--linkedin {
+  color: #ffffff !important;
 } 
