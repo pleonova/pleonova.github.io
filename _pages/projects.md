@@ -8,7 +8,7 @@ header:
   cta_label: #"<i class='fas fa-download'></i> Install Now"
   cta_url: #"/docs/quick-start-guide/"
   caption:
-excerpt: 'A collection of my data projects.'
+excerpt: 'Exploring the intersection of data science, artificial intelligence, and user experience through practical applications.'
 feature_row:
   - image_path: /images/display-hf-multi-label-border.jpg
     alt: "hf-label"
