@@ -2,6 +2,7 @@
 layout: splash
 title: "Projects"
 permalink: /projects/
+classes: projects-page
 header:
   overlay_color: "#ffffff"
   overlay_image: #/assets/images/mm-home-page-feature.jpg
