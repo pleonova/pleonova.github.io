@@ -62,6 +62,19 @@ a {
   color: #ffffff !important;
 }
 
+/* Green Projects button */
+.btn--projects {
+  background-color: #28a745 !important;
+  border-color: #28a745 !important;
+  color: #ffffff !important;
+}
+
+.btn--projects:hover {
+  background-color: #218838 !important;
+  border-color: #218838 !important;
+  color: #ffffff !important;
+}
+
 /* Remove text shadows and make fonts simpler without dimension */
 .page__title,
 .page__meta,
