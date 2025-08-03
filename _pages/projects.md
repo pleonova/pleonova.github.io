@@ -13,14 +13,14 @@ excerpt: 'Exploring the intersection of data science, artificial intelligence, a
 feature_row:
   - image_path: /images/display-chrome-app.jpg
     alt: "LLM Chrome Extension"
-    title: "LLM Chrome Extension"
+    title: "On-Device LLM Chrome Extension"
     excerpt: "A Chrome extension that uses AI to categorize and organize web pages using on-device Gemini Nano or Hugging Face models."
     url: "https://github.com/pleonova/llm-chrome-extension/tree/main"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /images/display-edu-skills.jpg
     alt: "Educational Skills Tagging"
-    title: "Educational Skills Tagging"
+    title: "Automated Educational Skills Tagging"
     excerpt: "An AI-powered pipeline that analyzes educational text to identify optimal learning intervention points by mapping content to specific skills and competencies."
     url: "https://github.com/pleonova/edu-skills-tagging"
     btn_class: "btn--primary"
