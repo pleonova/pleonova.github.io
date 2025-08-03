@@ -11,6 +11,20 @@ header:
   caption:
 excerpt: 'Exploring the intersection of data science, artificial intelligence, and user experience through practical applications.'
 feature_row:
+  - image_path: /images/display-chrome-app.jpg
+    alt: "LLM Chrome Extension"
+    title: "LLM Chrome Extension"
+    excerpt: "A Chrome extension that uses AI to categorize and organize web pages using on-device Gemini Nano or Hugging Face models."
+    url: "https://github.com/pleonova/llm-chrome-extension/tree/main"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+  - image_path: /images/display-edu-skills.jpg
+    alt: "Educational Skills Tagging"
+    title: "Educational Skills Tagging"
+    excerpt: "An AI-powered pipeline that analyzes educational text to identify optimal learning intervention points by mapping content to specific skills and competencies."
+    url: "https://github.com/pleonova/edu-skills-tagging"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
   - image_path: /images/display-hf-multi-label-border.jpg
     alt: "hf-label"
     title: "NLP Summarizer & Multi-Label Classifier"
@@ -51,20 +65,6 @@ feature_row:
     title: "Visualizing Data in Tableau"
     excerpt: "I recorded everything I did in May 2017 and gave a presentation on how I visualized my data using Tableau."
     url: "/visualization-tableau/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /images/display-chrome-app.jpg
-    alt: "LLM Chrome Extension"
-    title: "LLM Chrome Extension"
-    excerpt: "A Chrome extension that uses AI to categorize and organize web pages using on-device Gemini Nano or Hugging Face models."
-    url: "https://github.com/pleonova/llm-chrome-extension/tree/main"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /images/display-edu-skills.jpg
-    alt: "Educational Skills Tagging"
-    title: "Educational Skills Tagging"
-    excerpt: "An AI-powered pipeline that analyzes educational text to identify optimal learning intervention points by mapping content to specific skills and competencies."
-    url: "https://github.com/pleonova/edu-skills-tagging"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 github:
