@@ -5,6 +5,7 @@ header:
   overlay_color: "#ffffff"
   #image: "/images/rock-colors-small.jpg"
 ---
+## Background
 
 I have over 10 years of industry experience in data science and engineering, working across diverse sectors from hardware to education, with expertise in LLMs/natural language processing, machine learning operations (MLOps), and user experience optimization through experimentation and iterative product development. My experience spans both large tech companies like Google, Shutterfly, and Discovery Education, as well as innovative startups in healthcare and education.
 
@@ -36,8 +37,6 @@ I've developed reusable frameworks for A/B testing, statistical test selection, 
 <img src="{{ site.url }}{{ site.baseurl }}/images/my-background5.JPG" alt="">
 
 <br /><br />
-## Beyond Engineering & Data Science
+## For Fun
 
-When I'm not building AI systems or analyzing data, you'll find me outdoors - snowboarding in the mountains during winter or playing Ultimate Frisbee in the park during summer. I'm also passionate about [woodworking](https://www.instructables.com/My-First-Piece-of-Furniture-a-Bar-Cart/), [photography](http://girlandcamera.wixsite.com/novaphotography), and enjoy strategic board games like Terra Mystica and Brass: Birmingham.
-
-I believe in continuous learning and sharing knowledge with the community. You can explore my latest projects and educational resources in the [Projects](https://pleonova.github.io/projects/) sections.
+When I'm not building AI systems or analyzing data, you'll find me outdoors - snowboarding in the mountains during winter or playing Ultimate Frisbee in the park during summer. When I'm inside, I love nothing more than a good book ([my most recent books](https://www.goodreads.com/review/list/161502381?shelf=read)) or playing strategic board game with friends (my all time favorite is Brass: Birmingham). I also love building furniture ([my first instructables](https://www.instructables.com/My-First-Piece-of-Furniture-a-Bar-Cart/)), and while my SLR camera is a little dusty these days, I used to be quite into photography ([my photo collection](https://girlandcamera.wixsite.com/novaphotography)).
