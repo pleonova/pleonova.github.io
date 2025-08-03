@@ -40,4 +40,4 @@ I've developed reusable frameworks for A/B testing, statistical test selection, 
 
 When I'm not building AI systems or analyzing data, you'll find me outdoors - snowboarding in the mountains during winter or playing Ultimate Frisbee in the park during summer. I'm also passionate about [woodworking](https://www.instructables.com/My-First-Piece-of-Furniture-a-Bar-Cart/), [photography](http://girlandcamera.wixsite.com/novaphotography), and enjoy strategic board games like Terra Mystica and Brass: Birmingham.
 
-I believe in continuous learning and sharing knowledge with the community. You can explore my latest projects and educational resources in the [Projects](https://pleonova.github.io/projects/) and [Education](https://pleonova.github.io/education/) sections.
+I believe in continuous learning and sharing knowledge with the community. You can explore my latest projects and educational resources in the [Projects](https://pleonova.github.io/projects/) sections.
