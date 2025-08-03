@@ -2,6 +2,7 @@
 title: "About"
 permalink: /about/
 header:
+  overlay_color: "#ffffff"
   #image: "/images/rock-colors-small.jpg"
 ---
 

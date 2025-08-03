@@ -2,6 +2,7 @@
 title: "Education"
 permalink: /education/
 header:
+  overlay_color: "#ffffff"
   #image: "/images/rock-colors-small.jpg"
 ---
 For those wondering, my traditional education was at UC Berkeley, where I got my bachelors in Economics. During my time there, I assisted several professors with their research and discovered my interest in uncovering patterns from a sea of data, what we today call Data Science, though that term wasn't coined yet at the time. 
