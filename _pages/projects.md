@@ -11,6 +11,13 @@ header:
   caption:
 excerpt: 'Exploring the intersection of data science, artificial intelligence, and user experience through practical applications.'
 feature_row:
+  - image_path: /images/display-bot-lisa.jpg
+    alt: "Assistant Lisa"
+    title: "Foreign Language Voice Assistant"
+    excerpt: "A hands-free Android voice app for caregivers and language learners, with on-device LLM suggestions and translation across 11 languages."
+    url: "https://github.com/pleonova/bot-lisa"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
   - image_path: /images/display-chrome-app.jpg
     alt: "LLM Chrome Extension"
     title: "On-Device LLM Chrome Extension"
